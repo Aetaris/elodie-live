@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T22:34:46.068Z
+Last updated: 2026-11-12T22:44:46.145Z
 
 ## Basic Information
 
@@ -64,7 +64,21 @@ Elodie possesses all the necessary supplies for Hogwarts. While at school, unles
 
 Tags: Mundane
 
-**Details:** 
+**Description:** Who were the Fawleys?
+
+**Investigation:** Elodie is the daughter of Landon and Cecily Fawley. Her father was murdered, along with Elodie's grandparents and paternal aunt, eight months prior to Elodie's birth, by Death Eaters, because Voldemort wished to make a demonstration to other pureblood families claiming neutrality during the war that refusing to aid him would be treated as opposition; Cecily survived by virtue of not being present at the time. Cecily died in childbirth. Elodie has no known surviving family, or at least none who bear the Fawley name.
+
+Rilly has never accepted the idea of allowing Elodie to be raised by another family, which is the original cause for the public deception of Cecily's "survival".
+
+**Pursuing?:** No
+
+### Elodie's Nature
+
+Tags: Luminous, Magical
+
+**Description:** Elodie doesn't know what she is, exactly.
+
+**Investigation:** 
 
 **Pursuing?:** No
 
@@ -91,6 +105,16 @@ Tags: Major Goal, Incomplete Goal
 **Description:** Elodie intends to become a Dark Lord and one day found a Grand Dark Empire. This is a very normal goal for an eleven-year-old.
 
 **Progress:** Progress so far has been... somewhat limited.
+
+**Completion:** No
+
+### Hogwarts Attendance
+
+Tags: Major Goal, Incomplete Goal
+
+**Description:** Elodie does, presumably, intend to complete her education.
+
+**Progress:** 
 
 **Completion:** No
 
