@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T22:24:46.421Z
+Last updated: 2026-11-12T22:34:46.068Z
 
 ## Basic Information
 
@@ -21,6 +21,10 @@ Last updated: 2026-11-12T22:24:46.421Z
 **House:** TBD
 
 **Grand Dark Empire:** Not Yet Founded
+
+### Appearance
+
+Elodie is a slightly short, slender eleven-year-old girl with fair skin, a round face, and thick, dark brown hair that falls a little past her shoulders, usually worn loose or tied back with a ribbon. Her features are expressive, and she has a habit of smiling rather readily. Her most striking feature is her extraordinarily vivid blue eyes, an almost startling shade that stands out even against her otherwise unremarkable appearance. She generally dresses neatly, although she's not especially concerned with remaining neat once she's occupied with something interesting.
 
 ### Current Status
 
@@ -44,15 +48,25 @@ Last updated: 2026-11-12T22:24:46.421Z
 
 None at present
 
-### Appearance
-
-Elodie is a slightly short, slender eleven-year-old girl with fair skin, a round face, and thick, dark brown hair that falls a little past her shoulders, usually worn loose or tied back with a ribbon. Her features are expressive, and she has a habit of smiling rather readily. Her most striking feature is her extraordinarily vivid blue eyes, an almost startling shade that stands out even against her otherwise unremarkable appearance. She generally dresses neatly, although she's not especially concerned with remaining neat once she's occupied with something interesting.
-
 ## Inventory
 
 ### Elodie's Wand
 
 Walnut, with dragon heartstring core.  11¼ inches. Reasonably supple. No longer capable of being wielded by anyone except Elodie.
+
+### School Supplies
+
+Elodie possesses all the necessary supplies for Hogwarts. While at school, unless circumstances demand otherwise, assume she is carrying the necessary supplies for the day's classes.
+
+## Discoveries
+
+### Family Tree
+
+Tags: Mundane
+
+**Details:** 
+
+**Pursuing?:** No
 
 ## Connections
 
