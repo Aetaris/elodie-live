@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T21:14:46.379Z
+Last updated: 2026-11-12T21:24:46.055Z
 
 ## Basic Information
 
@@ -106,7 +106,7 @@ Tags: Practical, Mundane
 
 **Description:** Physical power and application of force.
 
-**Affinity:** 0/10
+**Affinity:** 3/10
 
 **Expertise:** 0/10
 
@@ -118,8 +118,56 @@ Tags: Knowledge, Magical
 
 **Description:** Magical theory has many individual branches. This skill represents understanding of the places where they intersect, and generalised magical comprehension.
 
-**Affinity:** 0/10
+**Affinity:** 8/10
 
-**Expertise:** 0/10
+**Expertise:** 3/10
 
 **Mastery:** 0/10
+
+### Agility
+
+Tags: Practical, Mundane
+
+**Description:** Dexterity, quick movement, evasion, acrobatics.
+
+**Affinity:** 6/10
+
+**Expertise:** 1/10
+
+**Mastery:** 1/10
+
+### Poker Face
+
+Tags: Practical, Mundane
+
+**Description:** Capacity for controlling one's expression or reactions; ability to suppress emotional tells.
+
+**Affinity:** 4/10
+
+**Expertise:** 1/10
+
+**Mastery:** 0/10
+
+### Research
+
+Tags: Practical, Mundane
+
+**Description:** Capacity to turn sources of knowledge into knowledge.
+
+**Affinity:** 8/10
+
+**Expertise:** 4/10
+
+**Mastery:** 3/10
+
+### Stealth
+
+Tags: Practical, Mundane
+
+**Description:** Capacity to move quietly, diminish one's presence, evade notice or detection, and generally take action without being observed doing so.
+
+**Affinity:** 5/10
+
+**Expertise:** 1/10
+
+**Mastery:** 1/10
