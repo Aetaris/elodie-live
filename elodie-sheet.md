@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T22:04:46.077Z
+Last updated: 2026-11-12T22:14:46.613Z
 
 ## Basic Information
 
@@ -10,13 +10,13 @@ Last updated: 2026-11-12T22:04:46.077Z
 
 **Age:** Eleven (Hogwarts first-year, inbound)
 
-**Birthday:** TBD
+**Birthday:** 14 May, 1980
 
 **Blood Status:** Pureblood
 
 **Residence:** Fawley Manor
 
-**Guardian:** Rilly (legally TBD Fawley)
+**Guardian:** Rilly (legally Cecily Fawley)
 
 **House:** TBD
 
@@ -49,6 +49,10 @@ TBD
 None at present
 
 ## Inventory
+
+### Elodie's Wand
+
+Walnut, with dragon heartstring core.  11¼ inches. Reasonably supple. No longer capable of being wielded by anyone except Elodie.
 
 ## Connections
 
