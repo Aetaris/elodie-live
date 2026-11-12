@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T21:44:46.200Z
+Last updated: 2026-11-12T21:54:46.102Z
 
 ## Basic Information
 
@@ -83,6 +83,16 @@ Tags: Major Goal, Incomplete Goal
 **Expertise:** {"id":"66e054dc-c057-40e9-9be0-5eefa5adeb4c","name":"Expertise"}
 
 **Mastery:** {"id":"c3f0dd3e-9d47-43e1-805c-497cfb882759","name":"Mastery"}
+
+### Grand Dark Empire
+
+Tags: Major Goal, Incomplete Goal
+
+**Description:** 
+
+**Progress:** 
+
+**Completion:** No
 
 ## Traits
 
