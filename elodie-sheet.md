@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T23:14:46.111Z
+Last updated: 2026-11-12T23:44:46.095Z
 
 ## Basic Information
 
@@ -92,11 +92,27 @@ Tags: Wider World
 
 **Relation:** Devoted Elf / Caretaker
 
+**Demeanour:** Devotional
+
 **Details:** Rilly has spent eleven years raising Elodie. The bond is irreplaceable.
 
 **Regard:** 89
 
 **Affection:** 97
+
+### Oliver Wood
+
+Tags: Hogwarts, Student
+
+**Relation:** 
+
+**Demeanour:** 
+
+**Details:** 
+
+**Regard:** -1
+
+**Affection:** 1
 
 ## Goals
 
