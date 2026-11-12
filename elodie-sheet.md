@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T20:29:24.653Z
+Last updated: 2026-11-12T20:34:20.531Z
 
 ## Basic Information
 
@@ -60,10 +60,6 @@ Tags: Wider World
 
 **Affection:** 97
 
-**Starstruck (GM):** 14/15
-
-**Starbound (GM):** 13/15
-
 ## Goals
 
 ### Grand Dark Empire
@@ -77,16 +73,6 @@ Tags: Incomplete Goal
 **Completion:** No
 
 ## Traits
-
-### Star Child (GM)
-
-Tags: Luminous, Magical
-
-**Description:** Elodie was born joined to a fragment of a celestial truth. Those in a position to understand, will.
-
-**Active:** Yes
-
-**Permanent:** Yes
 
 ### Blue Blood
 
