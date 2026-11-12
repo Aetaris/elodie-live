@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T20:34:20.531Z
+Last updated: 2026-11-12T20:54:46.297Z
 
 ## Basic Information
 
@@ -55,6 +55,8 @@ None at present
 Tags: Wider World
 
 **Relation:** Devoted Elf / Caretaker
+
+**Details:** Rilly has spent eleven years raising Elodie. The bond is irreplaceable.
 
 **Regard:** 89
 
