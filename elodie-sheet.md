@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T21:54:46.102Z
+Last updated: 2026-11-12T22:04:46.077Z
 
 ## Basic Information
 
@@ -73,24 +73,6 @@ Tags: Major Goal, Incomplete Goal
 **Description:** Elodie intends to become a Dark Lord and one day found a Grand Dark Empire. This is a very normal goal for an eleven-year-old.
 
 **Progress:** Progress so far has been... somewhat limited.
-
-**Completion:** No
-
-**Description:** {"id":"c5c2a4e8-92c8-4b05-9158-e83e2db00fdb","name":"Description"}
-
-**Affinity:** {"id":"2801f038-35f9-4e72-af25-4f64a313c749","name":"Affinity"}
-
-**Expertise:** {"id":"66e054dc-c057-40e9-9be0-5eefa5adeb4c","name":"Expertise"}
-
-**Mastery:** {"id":"c3f0dd3e-9d47-43e1-805c-497cfb882759","name":"Mastery"}
-
-### Grand Dark Empire
-
-Tags: Major Goal, Incomplete Goal
-
-**Description:** 
-
-**Progress:** 
 
 **Completion:** No
 
