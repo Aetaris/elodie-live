@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T21:24:46.055Z
+Last updated: 2026-11-12T21:34:46.152Z
 
 ## Basic Information
 
@@ -112,18 +112,6 @@ Tags: Practical, Mundane
 
 **Mastery:** 0/10
 
-### Universal Magical Theory
-
-Tags: Knowledge, Magical
-
-**Description:** Magical theory has many individual branches. This skill represents understanding of the places where they intersect, and generalised magical comprehension.
-
-**Affinity:** 8/10
-
-**Expertise:** 3/10
-
-**Mastery:** 0/10
-
 ### Agility
 
 Tags: Practical, Mundane
@@ -131,6 +119,18 @@ Tags: Practical, Mundane
 **Description:** Dexterity, quick movement, evasion, acrobatics.
 
 **Affinity:** 6/10
+
+**Expertise:** 1/10
+
+**Mastery:** 1/10
+
+### Stealth
+
+Tags: Practical, Mundane
+
+**Description:** Capacity to move quietly, diminish one's presence, evade notice or detection, and generally take action without being observed doing so.
+
+**Affinity:** 5/10
 
 **Expertise:** 1/10
 
@@ -160,14 +160,72 @@ Tags: Practical, Mundane
 
 **Mastery:** 3/10
 
-### Stealth
+### Universal Magical Theory
 
-Tags: Practical, Mundane
+Tags: Knowledge, Magical
 
-**Description:** Capacity to move quietly, diminish one's presence, evade notice or detection, and generally take action without being observed doing so.
+**Description:** Magical theory has many individual branches. This skill represents understanding of the places where they intersect, and generalised magical comprehension.
+
+**Affinity:** 8/10
+
+**Expertise:** 3/10
+
+**Mastery:** 0/10
+
+### Charms
+
+Tags: Practical, Knowledge, Magical
+
+**Description:** The knowledge and application of the magical field of Charms.
+
+**Affinity:** 8/10
+
+**Expertise:** 2/10
+
+**Mastery:** 1/10
+
+### Transfiguration
+
+Tags: Practical, Knowledge, Magical
+
+**Description:** The knowledge and application of the magical field of Transfiguration.
 
 **Affinity:** 5/10
 
 **Expertise:** 1/10
 
+**Mastery:** 0/10
+
+### Potions
+
+Tags: Practical, Knowledge, Magical
+
+**Description:** The knowledge and application of the magical field of Potions.
+
+**Affinity:** 4/10
+
+**Expertise:** 2/10
+
+**Mastery:** 0/10
+
+### Herbology
+
+Tags: Practical, Knowledge, Magical
+
+**Description:** The knowledge and application of the magical field of Herbology.
+
+**Affinity:** 6/10
+
+**Expertise:** 2/10
+
 **Mastery:** 1/10
+
+### Defense
+
+**Description:** The knowledge and application of the magical field of Defense (Against the Dark Arts).
+
+**Affinity:** 7/10
+
+**Expertise:** 2/10
+
+**Mastery:** 0/10
