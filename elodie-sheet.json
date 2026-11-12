@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-12T20:16:08.057Z",
+  "fetchedAt": "2026-11-12T20:27:21.421Z",
   "source": "KILN",
   "characterID": "qpELZmek1XZV5ASlci2a",
   "categories": [
@@ -19,14 +19,11 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/dMlJkDE4IuAaFDN072q6",
       "fields": {
-        "itemIDs": {
-          "arrayValue": {
-            "values": [
-              {
-                "stringValue": "nQE6KOtSeMzxT0bC1N0k"
-              }
-            ]
-          }
+        "name": {
+          "stringValue": "Connections"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/heart-wings.svg"
         },
         "attributes": {
           "arrayValue": {
@@ -124,11 +121,14 @@
             ]
           }
         },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/heart-wings.svg"
-        },
-        "name": {
-          "stringValue": "Connections"
+        "itemIDs": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "nQE6KOtSeMzxT0bC1N0k"
+              }
+            ]
+          }
         }
       },
       "createTime": "2026-11-12T17:46:24.712579Z",
@@ -137,6 +137,21 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/eT7wwJnXampLUSEEloEJ",
       "fields": {
+        "itemIDs": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "TV8jQJ0XJGEM3EkpCY5R"
+              }
+            ]
+          }
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/items/treasure-map.svg"
+        },
+        "name": {
+          "stringValue": "Goals"
+        },
         "attributes": {
           "arrayValue": {
             "values": [
@@ -196,21 +211,6 @@
               }
             ]
           }
-        },
-        "name": {
-          "stringValue": "Goals"
-        },
-        "itemIDs": {
-          "arrayValue": {
-            "values": [
-              {
-                "stringValue": "TV8jQJ0XJGEM3EkpCY5R"
-              }
-            ]
-          }
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/items/treasure-map.svg"
         }
       },
       "createTime": "2026-11-12T19:52:19.874128Z",
@@ -307,24 +307,6 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/zwCjm1nhIypHhXzAje6q",
       "fields": {
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/magic-swirl.svg"
-        },
-        "name": {
-          "stringValue": "Skills"
-        },
-        "itemIDs": {
-          "arrayValue": {
-            "values": [
-              {
-                "stringValue": "DVAYAArnbyHiS8IJL2tn"
-              },
-              {
-                "stringValue": "a154sgpRiohCnBYR390t"
-              }
-            ]
-          }
-        },
         "attributes": {
           "arrayValue": {
             "values": [
@@ -402,6 +384,24 @@
               }
             ]
           }
+        },
+        "itemIDs": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "DVAYAArnbyHiS8IJL2tn"
+              },
+              {
+                "stringValue": "a154sgpRiohCnBYR390t"
+              }
+            ]
+          }
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/magic-swirl.svg"
+        },
+        "name": {
+          "stringValue": "Skills"
         }
       },
       "createTime": "2026-11-12T17:50:57.822459Z",
@@ -412,13 +412,10 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/4Zz0AflpTVzFTKAzL9Vc",
       "fields": {
-        "tags": {
+        "attributes": {
           "arrayValue": {}
         },
-        "name": {
-          "stringValue": "Item"
-        },
-        "attributes": {
+        "tags": {
           "arrayValue": {}
         },
         "categoryID": {
@@ -426,6 +423,9 @@
         },
         "icon": {
           "stringValue": "assets/rpg-icons/items/cube.svg"
+        },
+        "name": {
+          "stringValue": "Item"
         }
       },
       "createTime": "2026-11-12T17:41:34.001341Z",
@@ -434,6 +434,60 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/DVAYAArnbyHiS8IJL2tn",
       "fields": {
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/weapons/punch.svg"
+        },
+        "name": {
+          "stringValue": "Strength"
+        },
+        "id": {
+          "stringValue": "DVAYAArnbyHiS8IJL2tn"
+        },
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Practical"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/assassin-pocket.svg"
+                    },
+                    "id": {
+                      "stringValue": "NcUQ4AwhIdnijFFkD4w4"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Mundane"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
+                    },
+                    "id": {
+                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
         "attributes": {
           "arrayValue": {
             "values": [
@@ -820,60 +874,6 @@
               }
             ]
           }
-        },
-        "id": {
-          "stringValue": "DVAYAArnbyHiS8IJL2tn"
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/weapons/punch.svg"
-        },
-        "categoryID": {
-          "stringValue": "zwCjm1nhIypHhXzAje6q"
-        },
-        "name": {
-          "stringValue": "Strength"
-        },
-        "tags": {
-          "arrayValue": {
-            "values": [
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Practical"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/assassin-pocket.svg"
-                    },
-                    "id": {
-                      "stringValue": "NcUQ4AwhIdnijFFkD4w4"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Mundane"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
-                    },
-                    "id": {
-                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              }
-            ]
-          }
         }
       },
       "createTime": "2026-11-12T17:53:09.912407Z",
@@ -884,6 +884,141 @@
       "fields": {
         "name": {
           "stringValue": "Star Child (GM)"
+        },
+        "unfolded": {
+          "booleanValue": true
+        },
+        "id": {
+          "stringValue": "KXk2sdIqXVuQxAaV573w"
+        },
+        "isFavorite": {
+          "booleanValue": false
+        },
+        "categoryID": {
+          "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
+        },
+        "isTagFiltered": {
+          "booleanValue": true
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
+        },
+        "attributes": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "752f9055-f69f-4607-83ca-ca0a5942f774"
+                    },
+                    "name": {
+                      "stringValue": "Description"
+                    },
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/black-book.svg"
+                    },
+                    "value": {
+                      "stringValue": "Elodie was born joined to a fragment of a celestial truth. Those in a position to understand, will."
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "a174b22f-5471-48e3-a6e5-9b919dc3ea0a"
+                    },
+                    "name": {
+                      "stringValue": "Active"
+                    },
+                    "type": {
+                      "stringValue": "checkboxes"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "integerValue": "1"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "checkboxType": {
+                      "stringValue": "single"
+                    },
+                    "checkboxStateLength": {
+                      "integerValue": "3"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "color": {
+                      "stringValue": "green"
+                    },
+                    "checkboxStyle": {
+                      "stringValue": "check"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "a139adea-a63e-4426-9267-f799023e385c"
+                    },
+                    "name": {
+                      "stringValue": "Permanent"
+                    },
+                    "type": {
+                      "stringValue": "checkboxes"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "integerValue": "1"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "checkboxType": {
+                      "stringValue": "single"
+                    },
+                    "checkboxStateLength": {
+                      "integerValue": "2"
+                    },
+                    "checkboxStyle": {
+                      "stringValue": "star"
+                    },
+                    "color": {
+                      "stringValue": "red"
+                    }
+                  }
+                }
+              }
+            ]
+          }
         },
         "tags": {
           "arrayValue": {
@@ -926,130 +1061,25 @@
               }
             ]
           }
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
-        },
-        "attributes": {
-          "arrayValue": {
-            "values": [
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Description"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/items/black-book.svg"
-                    },
-                    "type": {
-                      "stringValue": "text"
-                    },
-                    "id": {
-                      "stringValue": "752f9055-f69f-4607-83ca-ca0a5942f774"
-                    },
-                    "value": {
-                      "stringValue": "Elodie was born joined to a fragment of a celestial truth. Those in a position to understand, will."
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "id": {
-                      "stringValue": "a174b22f-5471-48e3-a6e5-9b919dc3ea0a"
-                    },
-                    "name": {
-                      "stringValue": "Active"
-                    },
-                    "icon": {
-                      "nullValue": null
-                    },
-                    "type": {
-                      "stringValue": "checkboxes"
-                    },
-                    "values": {
-                      "arrayValue": {
-                        "values": [
-                          {
-                            "mapValue": {
-                              "fields": {
-                                "value": {
-                                  "integerValue": "1"
-                                }
-                              }
-                            }
-                          }
-                        ]
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "id": {
-                      "stringValue": "a139adea-a63e-4426-9267-f799023e385c"
-                    },
-                    "type": {
-                      "stringValue": "checkboxes"
-                    },
-                    "icon": {
-                      "nullValue": null
-                    },
-                    "name": {
-                      "stringValue": "Permanent"
-                    },
-                    "values": {
-                      "arrayValue": {
-                        "values": [
-                          {
-                            "mapValue": {
-                              "fields": {
-                                "value": {
-                                  "integerValue": "1"
-                                }
-                              }
-                            }
-                          }
-                        ]
-                      }
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        },
-        "isFavorite": {
-          "booleanValue": false
-        },
-        "isTagFiltered": {
-          "booleanValue": true
-        },
-        "id": {
-          "stringValue": "KXk2sdIqXVuQxAaV573w"
-        },
-        "categoryID": {
-          "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
-        },
-        "unfolded": {
-          "booleanValue": true
         }
       },
       "createTime": "2026-11-12T19:59:39.362543Z",
-      "updateTime": "2026-11-12T20:03:08.675658Z"
+      "updateTime": "2026-11-12T20:18:41.514970Z"
     },
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/TV8jQJ0XJGEM3EkpCY5R",
       "fields": {
-        "categoryID": {
-          "stringValue": "eT7wwJnXampLUSEEloEJ"
+        "name": {
+          "stringValue": "Grand Dark Empire"
         },
         "icon": {
           "stringValue": "assets/rpg-icons/armors/jewel-crown.svg"
+        },
+        "unfolded": {
+          "booleanValue": true
+        },
+        "isFavorite": {
+          "booleanValue": false
         },
         "attributes": {
           "arrayValue": {
@@ -1144,18 +1174,6 @@
             ]
           }
         },
-        "isFavorite": {
-          "booleanValue": false
-        },
-        "unfolded": {
-          "booleanValue": true
-        },
-        "name": {
-          "stringValue": "Grand Dark Empire"
-        },
-        "id": {
-          "stringValue": "TV8jQJ0XJGEM3EkpCY5R"
-        },
         "tags": {
           "arrayValue": {
             "values": [
@@ -1179,6 +1197,12 @@
               }
             ]
           }
+        },
+        "id": {
+          "stringValue": "TV8jQJ0XJGEM3EkpCY5R"
+        },
+        "categoryID": {
+          "stringValue": "eT7wwJnXampLUSEEloEJ"
         }
       },
       "createTime": "2026-11-12T19:54:44.084385Z",
@@ -1187,6 +1211,60 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/a154sgpRiohCnBYR390t",
       "fields": {
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/atom.svg"
+        },
+        "name": {
+          "stringValue": "Universal Magical Theory"
+        },
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Knowledge"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/book-cover.svg"
+                    },
+                    "id": {
+                      "stringValue": "VIiYA4WBnB1Cg2MoPhLF"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Magical"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
+                    },
+                    "id": {
+                      "stringValue": "L053TQzMKmx7DT9fErDj"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "id": {
+          "stringValue": "a154sgpRiohCnBYR390t"
+        },
         "attributes": {
           "arrayValue": {
             "values": [
@@ -1573,18 +1651,16 @@
               }
             ]
           }
-        },
-        "categoryID": {
-          "stringValue": "zwCjm1nhIypHhXzAje6q"
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/atom.svg"
-        },
-        "id": {
-          "stringValue": "a154sgpRiohCnBYR390t"
-        },
-        "name": {
-          "stringValue": "Universal Magical Theory"
+        }
+      },
+      "createTime": "2026-11-12T18:00:53.062803Z",
+      "updateTime": "2026-11-12T20:07:05.308442Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/nQE6KOtSeMzxT0bC1N0k",
+      "fields": {
+        "unfolded": {
+          "booleanValue": true
         },
         "tags": {
           "arrayValue": {
@@ -1593,31 +1669,13 @@
                 "mapValue": {
                   "fields": {
                     "name": {
-                      "stringValue": "Knowledge"
+                      "stringValue": "Wider World"
                     },
                     "icon": {
-                      "stringValue": "assets/rpg-icons/items/book-cover.svg"
+                      "stringValue": "assets/rpg-icons/places/fuji.svg"
                     },
                     "id": {
-                      "stringValue": "VIiYA4WBnB1Cg2MoPhLF"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Magical"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
-                    },
-                    "id": {
-                      "stringValue": "L053TQzMKmx7DT9fErDj"
+                      "stringValue": "jc0TmJZ52TswfcNrr1du"
                     },
                     "isSelected": {
                       "booleanValue": true
@@ -1627,22 +1685,6 @@
               }
             ]
           }
-        }
-      },
-      "createTime": "2026-11-12T18:00:53.062803Z",
-      "updateTime": "2026-11-12T20:07:05.308442Z"
-    },
-    {
-      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/nQE6KOtSeMzxT0bC1N0k",
-      "fields": {
-        "icon": {
-          "nullValue": null
-        },
-        "categoryID": {
-          "stringValue": "dMlJkDE4IuAaFDN072q6"
-        },
-        "unfolded": {
-          "booleanValue": true
         },
         "isFavorite": {
           "booleanValue": false
@@ -2052,124 +2094,25 @@
             ]
           }
         },
+        "name": {
+          "stringValue": "Rilly"
+        },
         "id": {
           "stringValue": "nQE6KOtSeMzxT0bC1N0k"
         },
-        "tags": {
-          "arrayValue": {}
+        "icon": {
+          "stringValue": "assets/rpg-icons/places/gate.svg"
         },
-        "name": {
-          "stringValue": "Rilly"
+        "categoryID": {
+          "stringValue": "dMlJkDE4IuAaFDN072q6"
         }
       },
       "createTime": "2026-11-12T17:49:44.062738Z",
-      "updateTime": "2026-11-12T19:51:22.469206Z"
+      "updateTime": "2026-11-12T20:23:48.602743Z"
     },
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/uXwq5Ebt3ung0qwb80T5",
       "fields": {
-        "categoryID": {
-          "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/armors/fish-scales.svg"
-        },
-        "attributes": {
-          "arrayValue": {
-            "values": [
-              {
-                "mapValue": {
-                  "fields": {
-                    "type": {
-                      "stringValue": "text"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/items/black-book.svg"
-                    },
-                    "name": {
-                      "stringValue": "Description"
-                    },
-                    "id": {
-                      "stringValue": "752f9055-f69f-4607-83ca-ca0a5942f774"
-                    },
-                    "value": {
-                      "stringValue": "All forms of direct magical contact are absorbed upon contact with Elodie, becoming entirely ineffectual. This applies equally to hostile and non-hostile magic."
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Active"
-                    },
-                    "icon": {
-                      "nullValue": null
-                    },
-                    "type": {
-                      "stringValue": "checkboxes"
-                    },
-                    "id": {
-                      "stringValue": "a174b22f-5471-48e3-a6e5-9b919dc3ea0a"
-                    },
-                    "values": {
-                      "arrayValue": {
-                        "values": [
-                          {
-                            "mapValue": {
-                              "fields": {
-                                "value": {
-                                  "integerValue": "1"
-                                }
-                              }
-                            }
-                          }
-                        ]
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "id": {
-                      "stringValue": "a139adea-a63e-4426-9267-f799023e385c"
-                    },
-                    "name": {
-                      "stringValue": "Permanent"
-                    },
-                    "icon": {
-                      "nullValue": null
-                    },
-                    "type": {
-                      "stringValue": "checkboxes"
-                    },
-                    "values": {
-                      "arrayValue": {
-                        "values": [
-                          {
-                            "mapValue": {
-                              "fields": {
-                                "value": {
-                                  "integerValue": "1"
-                                }
-                              }
-                            }
-                          }
-                        ]
-                      }
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        },
-        "id": {
-          "stringValue": "uXwq5Ebt3ung0qwb80T5"
-        },
         "tags": {
           "arrayValue": {
             "values": [
@@ -2212,21 +2155,17 @@
             ]
           }
         },
-        "name": {
-          "stringValue": "Magic Absorption"
-        }
-      },
-      "createTime": "2026-11-12T18:11:39.696295Z",
-      "updateTime": "2026-11-12T20:02:31.680999Z"
-    },
-    {
-      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/y1IXHpU1EKMikxJBfWAo",
-      "fields": {
+        "id": {
+          "stringValue": "uXwq5Ebt3ung0qwb80T5"
+        },
         "categoryID": {
           "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
         },
+        "name": {
+          "stringValue": "Magic Absorption"
+        },
         "icon": {
-          "stringValue": "assets/rpg-icons/effects/bleeding-wound.svg"
+          "stringValue": "assets/rpg-icons/armors/fish-scales.svg"
         },
         "attributes": {
           "arrayValue": {
@@ -2234,9 +2173,6 @@
               {
                 "mapValue": {
                   "fields": {
-                    "id": {
-                      "stringValue": "752f9055-f69f-4607-83ca-ca0a5942f774"
-                    },
                     "type": {
                       "stringValue": "text"
                     },
@@ -2246,8 +2182,11 @@
                     "name": {
                       "stringValue": "Description"
                     },
+                    "id": {
+                      "stringValue": "752f9055-f69f-4607-83ca-ca0a5942f774"
+                    },
                     "value": {
-                      "stringValue": "Elodie's blood is blue."
+                      "stringValue": "All forms of direct magical contact are absorbed upon contact with Elodie, becoming entirely ineffectual. This applies equally to hostile and non-hostile magic."
                     }
                   }
                 }
@@ -2255,11 +2194,11 @@
               {
                 "mapValue": {
                   "fields": {
-                    "id": {
-                      "stringValue": "a174b22f-5471-48e3-a6e5-9b919dc3ea0a"
-                    },
                     "name": {
                       "stringValue": "Active"
+                    },
+                    "id": {
+                      "stringValue": "a174b22f-5471-48e3-a6e5-9b919dc3ea0a"
                     },
                     "type": {
                       "stringValue": "checkboxes"
@@ -2281,6 +2220,18 @@
                           }
                         ]
                       }
+                    },
+                    "checkboxStyle": {
+                      "stringValue": "check"
+                    },
+                    "color": {
+                      "stringValue": "green"
+                    },
+                    "checkboxType": {
+                      "stringValue": "single"
+                    },
+                    "checkboxStateLength": {
+                      "integerValue": "2"
                     }
                   }
                 }
@@ -2288,18 +2239,18 @@
               {
                 "mapValue": {
                   "fields": {
+                    "type": {
+                      "stringValue": "checkboxes"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
                     "id": {
                       "stringValue": "a139adea-a63e-4426-9267-f799023e385c"
                     },
                     "name": {
                       "stringValue": "Permanent"
                     },
-                    "type": {
-                      "stringValue": "checkboxes"
-                    },
-                    "icon": {
-                      "nullValue": null
-                    },
                     "values": {
                       "arrayValue": {
                         "values": [
@@ -2314,16 +2265,32 @@
                           }
                         ]
                       }
+                    },
+                    "checkboxStyle": {
+                      "stringValue": "check"
+                    },
+                    "color": {
+                      "stringValue": "red"
+                    },
+                    "checkboxType": {
+                      "stringValue": "single"
+                    },
+                    "checkboxStateLength": {
+                      "integerValue": "2"
                     }
                   }
                 }
               }
             ]
           }
-        },
-        "id": {
-          "stringValue": "y1IXHpU1EKMikxJBfWAo"
-        },
+        }
+      },
+      "createTime": "2026-11-12T18:11:39.696295Z",
+      "updateTime": "2026-11-12T20:19:05.976377Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/y1IXHpU1EKMikxJBfWAo",
+      "fields": {
         "tags": {
           "arrayValue": {
             "values": [
@@ -2384,16 +2351,662 @@
             ]
           }
         },
+        "attributes": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/black-book.svg"
+                    },
+                    "name": {
+                      "stringValue": "Description"
+                    },
+                    "id": {
+                      "stringValue": "752f9055-f69f-4607-83ca-ca0a5942f774"
+                    },
+                    "value": {
+                      "stringValue": "Elodie's blood is blue."
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "type": {
+                      "stringValue": "checkboxes"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "id": {
+                      "stringValue": "a174b22f-5471-48e3-a6e5-9b919dc3ea0a"
+                    },
+                    "name": {
+                      "stringValue": "Active"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "integerValue": "1"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "checkboxStyle": {
+                      "stringValue": "check"
+                    },
+                    "color": {
+                      "stringValue": "green"
+                    },
+                    "checkboxType": {
+                      "stringValue": "single"
+                    },
+                    "checkboxStateLength": {
+                      "integerValue": "2"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "a139adea-a63e-4426-9267-f799023e385c"
+                    },
+                    "name": {
+                      "stringValue": "Permanent"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "type": {
+                      "stringValue": "checkboxes"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "integerValue": "1"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "checkboxStyle": {
+                      "stringValue": "star"
+                    },
+                    "color": {
+                      "stringValue": "red"
+                    },
+                    "checkboxType": {
+                      "stringValue": "single"
+                    },
+                    "checkboxStateLength": {
+                      "integerValue": "2"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
         "name": {
           "stringValue": "Blue Blood"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/bleeding-wound.svg"
+        },
+        "id": {
+          "stringValue": "y1IXHpU1EKMikxJBfWAo"
+        },
+        "categoryID": {
+          "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
         }
       },
       "createTime": "2026-11-12T18:13:01.424917Z",
-      "updateTime": "2026-11-12T20:02:48.734418Z"
+      "updateTime": "2026-11-12T20:18:52.954641Z"
+    }
+  ],
+  "sheets": [
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterSheets/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/sheets/biD4HqvlAf3mrHNmDe0x",
+      "fields": {
+        "modules": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "type": {
+                      "stringValue": "textfields"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/armors/pointy-hat.svg"
+                    },
+                    "fields": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "title": {
+                                  "stringValue": "Name"
+                                },
+                                "value": {
+                                  "stringValue": "Elodie Fawley"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "stringValue": "Eleven (Hogwarts first-year, inbound)"
+                                },
+                                "title": {
+                                  "stringValue": "Age"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "title": {
+                                  "stringValue": "Birthday"
+                                },
+                                "value": {
+                                  "stringValue": "TBD"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "title": {
+                                  "stringValue": "Blood Status"
+                                },
+                                "value": {
+                                  "stringValue": "Pureblood"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "title": {
+                                  "stringValue": "Residence"
+                                },
+                                "value": {
+                                  "stringValue": "Fawley Manor"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "title": {
+                                  "stringValue": "Guardian"
+                                },
+                                "value": {
+                                  "stringValue": "Rilly (legally TBD Fawley)"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "title": {
+                                  "stringValue": "House"
+                                },
+                                "value": {
+                                  "stringValue": "TBD"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "title": {
+                                  "stringValue": "Grand Dark Empire"
+                                },
+                                "value": {
+                                  "stringValue": "Not Yet Founded"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "title": {
+                      "stringValue": "Biography"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "title": {
+                      "stringValue": "Appearance"
+                    },
+                    "fields": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "title": {
+                                  "stringValue": ""
+                                },
+                                "value": {
+                                  "stringValue": "TBD"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "type": {
+                      "stringValue": "textfields"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/armors/robe.svg"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "title": {
+                      "stringValue": "Current Status"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/templar-heart.svg"
+                    },
+                    "type": {
+                      "stringValue": "modulecontainer"
+                    },
+                    "id": {
+                      "stringValue": "5ee543ca-0c49-4df2-ad31-af0a4c6376c6"
+                    },
+                    "modules": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "title": {
+                                  "stringValue": "Galleons on person"
+                                },
+                                "type": {
+                                  "stringValue": "counters"
+                                },
+                                "fields": {
+                                  "arrayValue": {
+                                    "values": [
+                                      {
+                                        "mapValue": {
+                                          "fields": {
+                                            "title": {
+                                              "stringValue": ""
+                                            },
+                                            "currentValue": {
+                                              "integerValue": "0"
+                                            },
+                                            "maxValue": {
+                                              "integerValue": "0"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    ]
+                                  }
+                                },
+                                "icon": {
+                                  "stringValue": "assets/rpg-icons/money/coins.svg"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "style": {
+                                  "stringValue": "progressbar"
+                                },
+                                "color": {
+                                  "stringValue": "red"
+                                },
+                                "title": {
+                                  "stringValue": "Injury"
+                                },
+                                "icon": {
+                                  "nullValue": null
+                                },
+                                "type": {
+                                  "stringValue": "gauge"
+                                },
+                                "fields": {
+                                  "arrayValue": {
+                                    "values": [
+                                      {
+                                        "mapValue": {
+                                          "fields": {
+                                            "values": {
+                                              "arrayValue": {
+                                                "values": [
+                                                  {
+                                                    "mapValue": {
+                                                      "fields": {
+                                                        "value": {
+                                                          "booleanValue": false
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "mapValue": {
+                                                      "fields": {
+                                                        "value": {
+                                                          "booleanValue": false
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "mapValue": {
+                                                      "fields": {
+                                                        "value": {
+                                                          "booleanValue": false
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "mapValue": {
+                                                      "fields": {
+                                                        "value": {
+                                                          "booleanValue": false
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "mapValue": {
+                                                      "fields": {
+                                                        "value": {
+                                                          "booleanValue": false
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "fields": {
+                                  "arrayValue": {
+                                    "values": [
+                                      {
+                                        "mapValue": {
+                                          "fields": {
+                                            "values": {
+                                              "arrayValue": {
+                                                "values": [
+                                                  {
+                                                    "mapValue": {
+                                                      "fields": {
+                                                        "value": {
+                                                          "booleanValue": false
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "mapValue": {
+                                                      "fields": {
+                                                        "value": {
+                                                          "booleanValue": false
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "mapValue": {
+                                                      "fields": {
+                                                        "value": {
+                                                          "booleanValue": false
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "mapValue": {
+                                                      "fields": {
+                                                        "value": {
+                                                          "booleanValue": false
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "mapValue": {
+                                                      "fields": {
+                                                        "value": {
+                                                          "booleanValue": false
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    ]
+                                  }
+                                },
+                                "style": {
+                                  "stringValue": "progressbar"
+                                },
+                                "icon": {
+                                  "nullValue": null
+                                },
+                                "type": {
+                                  "stringValue": "gauge"
+                                },
+                                "color": {
+                                  "stringValue": "gold"
+                                },
+                                "title": {
+                                  "stringValue": "Exhaustion"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "display": {
+                                  "nullValue": null
+                                },
+                                "color": {
+                                  "stringValue": "pink"
+                                },
+                                "title": {
+                                  "stringValue": "Magical Exhaustion"
+                                },
+                                "style": {
+                                  "stringValue": "progressbar"
+                                },
+                                "fields": {
+                                  "arrayValue": {
+                                    "values": [
+                                      {
+                                        "mapValue": {
+                                          "fields": {
+                                            "values": {
+                                              "arrayValue": {
+                                                "values": [
+                                                  {
+                                                    "mapValue": {
+                                                      "fields": {
+                                                        "value": {
+                                                          "booleanValue": false
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "mapValue": {
+                                                      "fields": {
+                                                        "value": {
+                                                          "booleanValue": false
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "mapValue": {
+                                                      "fields": {
+                                                        "value": {
+                                                          "booleanValue": false
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "mapValue": {
+                                                      "fields": {
+                                                        "value": {
+                                                          "booleanValue": false
+                                                        }
+                                                      }
+                                                    }
+                                                  },
+                                                  {
+                                                    "mapValue": {
+                                                      "fields": {
+                                                        "value": {
+                                                          "booleanValue": false
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                ]
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    ]
+                                  }
+                                },
+                                "type": {
+                                  "stringValue": "gauge"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "type": {
+                                  "stringValue": "textfields"
+                                },
+                                "title": {
+                                  "stringValue": "Ongoing Conditions"
+                                },
+                                "fields": {
+                                  "arrayValue": {
+                                    "values": [
+                                      {
+                                        "mapValue": {
+                                          "fields": {
+                                            "value": {
+                                              "stringValue": "None at present"
+                                            },
+                                            "title": {
+                                              "stringValue": ""
+                                            }
+                                          }
+                                        }
+                                      }
+                                    ]
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "display": {
+                      "nullValue": null
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "name": {
+          "stringValue": "Basic Information"
+        },
+        "default": {
+          "booleanValue": true
+        },
+        "id": {
+          "stringValue": "biD4HqvlAf3mrHNmDe0x"
+        }
+      },
+      "createTime": "2026-11-12T17:39:13.212323Z",
+      "updateTime": "2026-11-12T20:01:33.537996Z"
     }
   ],
   "categoryCount": 5,
   "itemCount": 8,
+  "sheetCount": 1,
   "status": "success",
-  "formattedSheet": "# Elodie Fawley\n\nLast updated: 2026-11-12T20:16:08.057Z\n\n## Connections\n\n### Rilly\n\n**Relation:** Devoted Elf / Caretaker\n\n**Regard:** 89\n\n**Affection:** 97\n\n**Starstruck (GM):** 14/15\n\n**Starbound (GM):** 13/15\n\n## Goals\n\n### Grand Dark Empire\n\nTags: Incomplete Goal\n\n**Description:** Elodie intends to become a Dark Lord and one day found a Grand Dark Empire. This is a very normal goal for an eleven-year-old.\n\n**Progress:** Progress so far has been... somewhat limited.\n\n**Completion:** No\n\n## Traits\n\n### Star Child (GM)\n\nTags: Luminous, Magical\n\n**Description:** Elodie was born joined to a fragment of a celestial truth. Those in a position to understand, will.\n\n**Active:** Yes\n\n**Permanent:** Yes\n\n### Blue Blood\n\nTags: Luminous, Magical, Mundane\n\n**Description:** Elodie's blood is blue.\n\n**Active:** Yes\n\n**Permanent:** Yes\n\n### Magic Absorption\n\nTags: Luminous, Magical\n\n**Description:** All forms of direct magical contact are absorbed upon contact with Elodie, becoming entirely ineffectual. This applies equally to hostile and non-hostile magic.\n\n**Active:** Yes\n\n**Permanent:** Yes\n\n## Skills\n\n### Strength\n\nTags: Practical, Mundane\n\n**Description:** Physical power and application of force.\n\n**Affinity:** 0/10\n\n**Expertise:** 0/10\n\n**Mastery:** 0/10\n\n### Universal Magical Theory\n\nTags: Knowledge, Magical\n\n**Description:** Magical theory has many individual branches. This skill represents understanding of the places where they intersect, and generalised magical comprehension.\n\n**Affinity:** 0/10\n\n**Expertise:** 0/10\n\n**Mastery:** 0/10\n"
+  "formattedSheet": "# Elodie Fawley\n\nLast updated: 2026-11-12T20:27:21.421Z\n\n## Connections\n\n### Rilly\n\nTags: Wider World\n\n**Relation:** Devoted Elf / Caretaker\n\n**Regard:** 89\n\n**Affection:** 97\n\n**Starstruck (GM):** 14/15\n\n**Starbound (GM):** 13/15\n\n## Goals\n\n### Grand Dark Empire\n\nTags: Incomplete Goal\n\n**Description:** Elodie intends to become a Dark Lord and one day found a Grand Dark Empire. This is a very normal goal for an eleven-year-old.\n\n**Progress:** Progress so far has been... somewhat limited.\n\n**Completion:** No\n\n## Traits\n\n### Star Child (GM)\n\nTags: Luminous, Magical\n\n**Description:** Elodie was born joined to a fragment of a celestial truth. Those in a position to understand, will.\n\n**Active:** Yes\n\n**Permanent:** Yes\n\n### Blue Blood\n\nTags: Luminous, Magical, Mundane\n\n**Description:** Elodie's blood is blue.\n\n**Active:** Yes\n\n**Permanent:** Yes\n\n### Magic Absorption\n\nTags: Luminous, Magical\n\n**Description:** All forms of direct magical contact are absorbed upon contact with Elodie, becoming entirely ineffectual. This applies equally to hostile and non-hostile magic.\n\n**Active:** Yes\n\n**Permanent:** Yes\n\n## Skills\n\n### Strength\n\nTags: Practical, Mundane\n\n**Description:** Physical power and application of force.\n\n**Affinity:** 0/10\n\n**Expertise:** 0/10\n\n**Mastery:** 0/10\n\n### Universal Magical Theory\n\nTags: Knowledge, Magical\n\n**Description:** Magical theory has many individual branches. This skill represents understanding of the places where they intersect, and generalised magical comprehension.\n\n**Affinity:** 0/10\n\n**Expertise:** 0/10\n\n**Mastery:** 0/10\n"
 }
