@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T21:39:00.757Z
+Last updated: 2026-11-12T21:44:46.200Z
 
 ## Basic Information
 
@@ -76,17 +76,35 @@ Tags: Major Goal, Incomplete Goal
 
 **Completion:** No
 
+**Description:** {"id":"c5c2a4e8-92c8-4b05-9158-e83e2db00fdb","name":"Description"}
+
+**Affinity:** {"id":"2801f038-35f9-4e72-af25-4f64a313c749","name":"Affinity"}
+
+**Expertise:** {"id":"66e054dc-c057-40e9-9be0-5eefa5adeb4c","name":"Expertise"}
+
+**Mastery:** {"id":"c3f0dd3e-9d47-43e1-805c-497cfb882759","name":"Mastery"}
+
 ## Traits
+
+### Luminous
+
+Tags: Luminous, Magical
+
+**Description:** There's something special about Elodie. [There is more to this trait to be discovered.]
+
+**Active:** Yes
+
+**Immutable:** Yes
 
 ### Blue Blood
 
 Tags: Luminous, Magical, Mundane
 
-**Description:** Elodie's blood is blue.
+**Description:** Elodie's blood is blue. This is somewhat notable in a world where blood is not, as a rule, blue. Allowing others to discover this could have consequences.
 
 **Active:** Yes
 
-**Permanent:** Yes
+**Immutable:** Yes
 
 ### Magic Absorption
 
@@ -96,7 +114,7 @@ Tags: Luminous, Magical
 
 **Active:** Yes
 
-**Permanent:** Yes
+**Immutable:** Yes
 
 ## Skills
 
