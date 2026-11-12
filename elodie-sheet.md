@@ -1,6 +1,52 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T20:27:21.421Z
+Last updated: 2026-11-12T20:29:24.653Z
+
+## Basic Information
+
+### Biography
+
+**Name:** Elodie Fawley
+
+**Age:** Eleven (Hogwarts first-year, inbound)
+
+**Birthday:** TBD
+
+**Blood Status:** Pureblood
+
+**Residence:** Fawley Manor
+
+**Guardian:** Rilly (legally TBD Fawley)
+
+**House:** TBD
+
+**Grand Dark Empire:** Not Yet Founded
+
+### Appearance
+
+TBD
+
+### Current Status
+
+#### Galleons on person
+
+0
+
+#### Injury
+
+0/5
+
+#### Exhaustion
+
+0/5
+
+#### Magical Exhaustion
+
+0/5
+
+#### Ongoing Conditions
+
+None at present
 
 ## Connections
 
