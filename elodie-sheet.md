@@ -1,10 +1,12 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T20:16:08.057Z
+Last updated: 2026-11-12T20:27:21.421Z
 
 ## Connections
 
 ### Rilly
+
+Tags: Wider World
 
 **Relation:** Devoted Elf / Caretaker
 
