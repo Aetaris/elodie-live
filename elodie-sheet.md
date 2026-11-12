@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T21:34:46.152Z
+Last updated: 2026-11-12T21:39:00.757Z
 
 ## Basic Information
 
@@ -222,10 +222,48 @@ Tags: Practical, Knowledge, Magical
 
 ### Defense
 
+Tags: Practical, Knowledge, Magical
+
 **Description:** The knowledge and application of the magical field of Defense (Against the Dark Arts).
 
 **Affinity:** 7/10
 
 **Expertise:** 2/10
+
+**Mastery:** 0/10
+
+### Astronomy
+
+Tags: Practical, Knowledge, Magical
+
+**Description:** The knowledge and application of the magical field of Astronomy.
+
+**Affinity:** 10/10
+
+**Expertise:** 3/10
+
+**Mastery:** 1/10
+
+### History of Magic
+
+Tags: Knowledge, Magical
+
+**Description:** The knowledge and application of the magical field of History of Magic.
+
+**Affinity:** 7/10
+
+**Expertise:** 3/10
+
+**Mastery:** 1/10
+
+### Flying
+
+Tags: Practical, Magical
+
+**Description:** Capacity to effectively fly and navigate on a broom.
+
+**Affinity:** 3/10
+
+**Expertise:** 0/10
 
 **Mastery:** 0/10
