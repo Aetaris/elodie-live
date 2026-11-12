@@ -1,16 +1,16 @@
 {
-  "fetchedAt": "2026-11-12T19:35:57.443Z",
+  "fetchedAt": "2026-11-12T19:42:53.469Z",
   "source": "KILN",
   "characterID": "qpELZmek1XZV5ASlci2a",
   "categories": [
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/GpivhVNlzmcYmyx0l94F",
       "fields": {
-        "isFavorite": {
-          "booleanValue": true
-        },
         "itemIDs": {
           "arrayValue": {}
+        },
+        "isFavorite": {
+          "booleanValue": true
         }
       },
       "createTime": "2026-11-12T17:39:12.895134Z",
@@ -19,6 +19,18 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/dMlJkDE4IuAaFDN072q6",
       "fields": {
+        "name": {
+          "stringValue": "Connections"
+        },
+        "itemIDs": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "nQE6KOtSeMzxT0bC1N0k"
+              }
+            ]
+          }
+        },
         "attributes": {
           "arrayValue": {
             "values": [
@@ -99,18 +111,6 @@
         },
         "icon": {
           "stringValue": "assets/rpg-icons/effects/heart-wings.svg"
-        },
-        "itemIDs": {
-          "arrayValue": {
-            "values": [
-              {
-                "stringValue": "nQE6KOtSeMzxT0bC1N0k"
-              }
-            ]
-          }
-        },
-        "name": {
-          "stringValue": "Connections"
         }
       },
       "createTime": "2026-11-12T17:46:24.712579Z",
@@ -119,8 +119,20 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/kf0VKPxK9hQ36pOKe4Qp",
       "fields": {
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/boomerang-sun.svg"
+        "itemIDs": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "y1IXHpU1EKMikxJBfWAo"
+              },
+              {
+                "stringValue": "uXwq5Ebt3ung0qwb80T5"
+              }
+            ]
+          }
+        },
+        "name": {
+          "stringValue": "Traits"
         },
         "attributes": {
           "arrayValue": {
@@ -182,20 +194,8 @@
             ]
           }
         },
-        "itemIDs": {
-          "arrayValue": {
-            "values": [
-              {
-                "stringValue": "y1IXHpU1EKMikxJBfWAo"
-              },
-              {
-                "stringValue": "uXwq5Ebt3ung0qwb80T5"
-              }
-            ]
-          }
-        },
-        "name": {
-          "stringValue": "Traits"
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/boomerang-sun.svg"
         }
       },
       "createTime": "2026-11-12T18:08:49.037278Z",
@@ -206,6 +206,21 @@
       "fields": {
         "name": {
           "stringValue": "Skills"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/magic-swirl.svg"
+        },
+        "itemIDs": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "DVAYAArnbyHiS8IJL2tn"
+              },
+              {
+                "stringValue": "a154sgpRiohCnBYR390t"
+              }
+            ]
+          }
         },
         "attributes": {
           "arrayValue": {
@@ -275,27 +290,1590 @@
               }
             ]
           }
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/magic-swirl.svg"
-        },
-        "itemIDs": {
-          "arrayValue": {
-            "values": [
-              {
-                "stringValue": "DVAYAArnbyHiS8IJL2tn"
-              },
-              {
-                "stringValue": "a154sgpRiohCnBYR390t"
-              }
-            ]
-          }
         }
       },
       "createTime": "2026-11-12T17:50:57.822459Z",
       "updateTime": "2026-11-12T18:00:53.298031Z"
     }
   ],
+  "items": [
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/4Zz0AflpTVzFTKAzL9Vc",
+      "fields": {
+        "tags": {
+          "arrayValue": {}
+        },
+        "categoryID": {
+          "stringValue": "QfQECporQ0cKQO1OpFTN"
+        },
+        "attributes": {
+          "arrayValue": {}
+        },
+        "name": {
+          "stringValue": "Item"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/items/cube.svg"
+        }
+      },
+      "createTime": "2026-11-12T17:41:34.001341Z",
+      "updateTime": "2026-11-12T17:41:34.001341Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/DVAYAArnbyHiS8IJL2tn",
+      "fields": {
+        "attributes": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "2801f038-35f9-4e72-af25-4f64a313c749"
+                    },
+                    "name": {
+                      "stringValue": "Affinity"
+                    },
+                    "type": {
+                      "stringValue": "gauge"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "color": {
+                      "stringValue": "green"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "66e054dc-c057-40e9-9be0-5eefa5adeb4c"
+                    },
+                    "name": {
+                      "stringValue": "Expertise"
+                    },
+                    "type": {
+                      "stringValue": "gauge"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "color": {
+                      "stringValue": "gold"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "c3f0dd3e-9d47-43e1-805c-497cfb882759"
+                    },
+                    "name": {
+                      "stringValue": "Mastery"
+                    },
+                    "type": {
+                      "stringValue": "gauge"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "color": {
+                      "stringValue": "pink"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Mundane"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
+                    },
+                    "id": {
+                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/weapons/punch.svg"
+        },
+        "id": {
+          "stringValue": "DVAYAArnbyHiS8IJL2tn"
+        },
+        "name": {
+          "stringValue": "Strength"
+        }
+      },
+      "createTime": "2026-11-12T17:53:09.912407Z",
+      "updateTime": "2026-11-12T18:03:07.171141Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/a154sgpRiohCnBYR390t",
+      "fields": {
+        "name": {
+          "stringValue": "Universal Magical Theory"
+        },
+        "id": {
+          "stringValue": "a154sgpRiohCnBYR390t"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/atom.svg"
+        },
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Magical"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
+                    },
+                    "id": {
+                      "stringValue": "L053TQzMKmx7DT9fErDj"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
+        "attributes": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "2801f038-35f9-4e72-af25-4f64a313c749"
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "name": {
+                      "stringValue": "Affinity"
+                    },
+                    "type": {
+                      "stringValue": "gauge"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "color": {
+                      "stringValue": "green"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "66e054dc-c057-40e9-9be0-5eefa5adeb4c"
+                    },
+                    "name": {
+                      "stringValue": "Expertise"
+                    },
+                    "type": {
+                      "stringValue": "gauge"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "color": {
+                      "stringValue": "gold"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "type": {
+                      "stringValue": "gauge"
+                    },
+                    "name": {
+                      "stringValue": "Mastery"
+                    },
+                    "id": {
+                      "stringValue": "c3f0dd3e-9d47-43e1-805c-497cfb882759"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "color": {
+                      "stringValue": "pink"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "createTime": "2026-11-12T18:00:53.062803Z",
+      "updateTime": "2026-11-12T18:02:23.341660Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/nQE6KOtSeMzxT0bC1N0k",
+      "fields": {
+        "id": {
+          "stringValue": "nQE6KOtSeMzxT0bC1N0k"
+        },
+        "icon": {
+          "nullValue": null
+        },
+        "name": {
+          "stringValue": "Rilly"
+        },
+        "isFavorite": {
+          "booleanValue": false
+        },
+        "unfolded": {
+          "booleanValue": true
+        },
+        "attributes": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Relation"
+                    },
+                    "id": {
+                      "stringValue": "b511ee91-59b5-46a5-885b-8b10b4820999"
+                    },
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/heart-key.svg"
+                    },
+                    "value": {
+                      "stringValue": "Mistress / Elf"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Affinity"
+                    },
+                    "id": {
+                      "stringValue": "f345f9f7-add9-4cad-b533-d2fa2c2b7e53"
+                    },
+                    "type": {
+                      "stringValue": "counter"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/heart-plus.svg"
+                    },
+                    "maxValue": {
+                      "integerValue": "100"
+                    },
+                    "currentValue": {
+                      "integerValue": "95"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
+                    },
+                    "id": {
+                      "stringValue": "8fac121e-26d8-4938-b60a-73341cbc0af2"
+                    },
+                    "name": {
+                      "stringValue": "Starstruck (GM)"
+                    },
+                    "type": {
+                      "stringValue": "gauge"
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "color": {
+                      "stringValue": "blue"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "type": {
+                      "stringValue": "gauge"
+                    },
+                    "name": {
+                      "stringValue": "Starbound (GM)"
+                    },
+                    "id": {
+                      "stringValue": "45d585ff-75e8-455b-be6d-410d21398180"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/circle-claws.svg"
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "color": {
+                      "stringValue": "blue"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "tags": {
+          "arrayValue": {}
+        },
+        "categoryID": {
+          "stringValue": "dMlJkDE4IuAaFDN072q6"
+        }
+      },
+      "createTime": "2026-11-12T17:49:44.062738Z",
+      "updateTime": "2026-11-12T18:49:23.157460Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/uXwq5Ebt3ung0qwb80T5",
+      "fields": {
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Luminous"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
+                    },
+                    "id": {
+                      "stringValue": "xQOSCIauMEEYFMzsoAQM"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Magical"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
+                    },
+                    "id": {
+                      "stringValue": "L053TQzMKmx7DT9fErDj"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "categoryID": {
+          "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/armors/fish-scales.svg"
+        },
+        "name": {
+          "stringValue": "Magic Absorption"
+        },
+        "id": {
+          "stringValue": "uXwq5Ebt3ung0qwb80T5"
+        },
+        "attributes": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "752f9055-f69f-4607-83ca-ca0a5942f774"
+                    },
+                    "name": {
+                      "stringValue": "Description"
+                    },
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "value": {
+                      "stringValue": "All forms of direct magical contact are absorbed upon contact with Elodie, becoming entirely ineffectual."
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "a174b22f-5471-48e3-a6e5-9b919dc3ea0a"
+                    },
+                    "name": {
+                      "stringValue": "Active"
+                    },
+                    "type": {
+                      "stringValue": "checkboxes"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "integerValue": "1"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "a139adea-a63e-4426-9267-f799023e385c"
+                    },
+                    "name": {
+                      "stringValue": "Permanent"
+                    },
+                    "type": {
+                      "stringValue": "checkboxes"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "integerValue": "1"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "createTime": "2026-11-12T18:11:39.696295Z",
+      "updateTime": "2026-11-12T18:40:31.412672Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/y1IXHpU1EKMikxJBfWAo",
+      "fields": {
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Luminous"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
+                    },
+                    "id": {
+                      "stringValue": "xQOSCIauMEEYFMzsoAQM"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Magical"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
+                    },
+                    "id": {
+                      "stringValue": "L053TQzMKmx7DT9fErDj"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Mundane"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
+                    },
+                    "id": {
+                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "categoryID": {
+          "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
+        },
+        "attributes": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "752f9055-f69f-4607-83ca-ca0a5942f774"
+                    },
+                    "name": {
+                      "stringValue": "Description"
+                    },
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "value": {
+                      "stringValue": "Elodie's blood is blue."
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "id": {
+                      "stringValue": "a174b22f-5471-48e3-a6e5-9b919dc3ea0a"
+                    },
+                    "type": {
+                      "stringValue": "checkboxes"
+                    },
+                    "name": {
+                      "stringValue": "Active"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "integerValue": "1"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "id": {
+                      "stringValue": "a139adea-a63e-4426-9267-f799023e385c"
+                    },
+                    "name": {
+                      "stringValue": "Permanent"
+                    },
+                    "type": {
+                      "stringValue": "checkboxes"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "integerValue": "1"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "id": {
+          "stringValue": "y1IXHpU1EKMikxJBfWAo"
+        },
+        "name": {
+          "stringValue": "Blue Blood"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/bleeding-wound.svg"
+        }
+      },
+      "createTime": "2026-11-12T18:13:01.424917Z",
+      "updateTime": "2026-11-12T18:40:22.258179Z"
+    }
+  ],
   "categoryCount": 4,
+  "itemCount": 6,
   "status": "success"
 }
