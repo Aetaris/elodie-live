@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T22:54:46.164Z
+Last updated: 2026-11-12T23:04:47.287Z
 
 ## Basic Information
 
@@ -317,6 +317,18 @@ Tags: Practical, Magical
 **Description:** Capacity to effectively fly and navigate on a broom.
 
 **Affinity:** 3/10
+
+**Expertise:** 0/10
+
+**Mastery:** 0/10
+
+### Muggle Studies
+
+Tags: Knowledge, Mundane
+
+**Description:** Familiarity with the non-magical world.
+
+**Affinity:** 4/10
 
 **Expertise:** 0/10
 
