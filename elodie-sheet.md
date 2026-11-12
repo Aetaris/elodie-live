@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T22:14:46.613Z
+Last updated: 2026-11-12T22:24:46.421Z
 
 ## Basic Information
 
@@ -22,15 +22,11 @@ Last updated: 2026-11-12T22:14:46.613Z
 
 **Grand Dark Empire:** Not Yet Founded
 
-### Appearance
-
-TBD
-
 ### Current Status
 
 #### Galleons on person
 
-0
+100
 
 #### Injury
 
@@ -47,6 +43,10 @@ TBD
 #### Ongoing Conditions
 
 None at present
+
+### Appearance
+
+Elodie is a slightly short, slender eleven-year-old girl with fair skin, a round face, and thick, dark brown hair that falls a little past her shoulders, usually worn loose or tied back with a ribbon. Her features are expressive, and she has a habit of smiling rather readily. Her most striking feature is her extraordinarily vivid blue eyes, an almost startling shade that stands out even against her otherwise unremarkable appearance. She generally dresses neatly, although she's not especially concerned with remaining neat once she's occupied with something interesting.
 
 ## Inventory
 
