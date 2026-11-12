@@ -1,16 +1,16 @@
 {
-  "fetchedAt": "2026-11-12T19:42:53.469Z",
+  "fetchedAt": "2026-11-12T20:09:21.847Z",
   "source": "KILN",
   "characterID": "qpELZmek1XZV5ASlci2a",
   "categories": [
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/GpivhVNlzmcYmyx0l94F",
       "fields": {
-        "itemIDs": {
-          "arrayValue": {}
-        },
         "isFavorite": {
           "booleanValue": true
+        },
+        "itemIDs": {
+          "arrayValue": {}
         }
       },
       "createTime": "2026-11-12T17:39:12.895134Z",
@@ -19,6 +19,9 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/dMlJkDE4IuAaFDN072q6",
       "fields": {
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/heart-wings.svg"
+        },
         "name": {
           "stringValue": "Connections"
         },
@@ -56,10 +59,28 @@
                 "mapValue": {
                   "fields": {
                     "id": {
+                      "stringValue": "6b5f46c0-7bcc-4a4f-affb-f7294cb66540"
+                    },
+                    "name": {
+                      "stringValue": "Regard"
+                    },
+                    "type": {
+                      "stringValue": "counter"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/trophy.svg"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
                       "stringValue": "f345f9f7-add9-4cad-b533-d2fa2c2b7e53"
                     },
                     "name": {
-                      "stringValue": "Affinity"
+                      "stringValue": "Affection"
                     },
                     "type": {
                       "stringValue": "counter"
@@ -108,20 +129,105 @@
               }
             ]
           }
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/heart-wings.svg"
         }
       },
       "createTime": "2026-11-12T17:46:24.712579Z",
-      "updateTime": "2026-11-12T18:49:05.531259Z"
+      "updateTime": "2026-11-12T19:50:21.682956Z"
     },
     {
-      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/kf0VKPxK9hQ36pOKe4Qp",
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/eT7wwJnXampLUSEEloEJ",
       "fields": {
         "itemIDs": {
           "arrayValue": {
             "values": [
+              {
+                "stringValue": "TV8jQJ0XJGEM3EkpCY5R"
+              }
+            ]
+          }
+        },
+        "name": {
+          "stringValue": "Goals"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/items/treasure-map.svg"
+        },
+        "attributes": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "3132c3d7-2f88-4058-bb7a-f0ed62a4216d"
+                    },
+                    "name": {
+                      "stringValue": "Description"
+                    },
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/black-book.svg"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "b6bbd6e9-3fdd-455d-8464-8fea91f335e0"
+                    },
+                    "name": {
+                      "stringValue": "Progress"
+                    },
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/stabbed-note.svg"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "8034ea0d-f174-4306-baab-1834b3b63374"
+                    },
+                    "name": {
+                      "stringValue": "Completion"
+                    },
+                    "type": {
+                      "stringValue": "checkboxes"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/trophy.svg"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "createTime": "2026-11-12T19:52:19.874128Z",
+      "updateTime": "2026-11-12T19:56:10.132075Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/kf0VKPxK9hQ36pOKe4Qp",
+      "fields": {
+        "name": {
+          "stringValue": "Traits"
+        },
+        "itemIDs": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "KXk2sdIqXVuQxAaV573w"
+              },
               {
                 "stringValue": "y1IXHpU1EKMikxJBfWAo"
               },
@@ -131,8 +237,8 @@
             ]
           }
         },
-        "name": {
-          "stringValue": "Traits"
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/boomerang-sun.svg"
         },
         "attributes": {
           "arrayValue": {
@@ -150,7 +256,7 @@
                       "stringValue": "text"
                     },
                     "icon": {
-                      "nullValue": null
+                      "stringValue": "assets/rpg-icons/items/black-book.svg"
                     }
                   }
                 }
@@ -193,38 +299,35 @@
               }
             ]
           }
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/boomerang-sun.svg"
         }
       },
       "createTime": "2026-11-12T18:08:49.037278Z",
-      "updateTime": "2026-11-12T18:13:11.375755Z"
+      "updateTime": "2026-11-12T20:02:31.973730Z"
     },
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/zwCjm1nhIypHhXzAje6q",
       "fields": {
-        "name": {
-          "stringValue": "Skills"
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/magic-swirl.svg"
-        },
-        "itemIDs": {
-          "arrayValue": {
-            "values": [
-              {
-                "stringValue": "DVAYAArnbyHiS8IJL2tn"
-              },
-              {
-                "stringValue": "a154sgpRiohCnBYR390t"
-              }
-            ]
-          }
-        },
         "attributes": {
           "arrayValue": {
             "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "c5c2a4e8-92c8-4b05-9158-e83e2db00fdb"
+                    },
+                    "name": {
+                      "stringValue": "Description"
+                    },
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/black-book.svg"
+                    }
+                  }
+                }
+              },
               {
                 "mapValue": {
                   "fields": {
@@ -234,14 +337,11 @@
                     "name": {
                       "stringValue": "Affinity"
                     },
-                    "icon": {
-                      "nullValue": null
-                    },
                     "type": {
                       "stringValue": "gauge"
                     },
-                    "style": {
-                      "stringValue": "progressbar"
+                    "icon": {
+                      "nullValue": null
                     }
                   }
                 }
@@ -255,14 +355,11 @@
                     "name": {
                       "stringValue": "Expertise"
                     },
-                    "icon": {
-                      "nullValue": null
-                    },
                     "type": {
                       "stringValue": "gauge"
                     },
-                    "style": {
-                      "stringValue": "progressbar"
+                    "icon": {
+                      "nullValue": null
                     }
                   }
                 }
@@ -276,24 +373,39 @@
                     "name": {
                       "stringValue": "Mastery"
                     },
-                    "icon": {
-                      "nullValue": null
-                    },
                     "type": {
                       "stringValue": "gauge"
                     },
-                    "style": {
-                      "stringValue": "progressbar"
+                    "icon": {
+                      "nullValue": null
                     }
                   }
                 }
               }
             ]
           }
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/magic-swirl.svg"
+        },
+        "name": {
+          "stringValue": "Skills"
+        },
+        "itemIDs": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "DVAYAArnbyHiS8IJL2tn"
+              },
+              {
+                "stringValue": "a154sgpRiohCnBYR390t"
+              }
+            ]
+          }
         }
       },
       "createTime": "2026-11-12T17:50:57.822459Z",
-      "updateTime": "2026-11-12T18:00:53.298031Z"
+      "updateTime": "2026-11-12T20:03:43.909266Z"
     }
   ],
   "items": [
@@ -303,11 +415,11 @@
         "tags": {
           "arrayValue": {}
         },
-        "categoryID": {
-          "stringValue": "QfQECporQ0cKQO1OpFTN"
-        },
         "attributes": {
           "arrayValue": {}
+        },
+        "categoryID": {
+          "stringValue": "QfQECporQ0cKQO1OpFTN"
         },
         "name": {
           "stringValue": "Item"
@@ -322,23 +434,53 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/DVAYAArnbyHiS8IJL2tn",
       "fields": {
+        "icon": {
+          "stringValue": "assets/rpg-icons/weapons/punch.svg"
+        },
+        "name": {
+          "stringValue": "Strength"
+        },
         "attributes": {
           "arrayValue": {
             "values": [
               {
                 "mapValue": {
                   "fields": {
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/black-book.svg"
+                    },
                     "id": {
-                      "stringValue": "2801f038-35f9-4e72-af25-4f64a313c749"
+                      "stringValue": "c5c2a4e8-92c8-4b05-9158-e83e2db00fdb"
                     },
                     "name": {
-                      "stringValue": "Affinity"
+                      "stringValue": "Description"
                     },
+                    "value": {
+                      "stringValue": "Physical power and application of force."
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
                     "type": {
                       "stringValue": "gauge"
                     },
                     "icon": {
                       "nullValue": null
+                    },
+                    "name": {
+                      "stringValue": "Affinity"
+                    },
+                    "id": {
+                      "stringValue": "2801f038-35f9-4e72-af25-4f64a313c749"
+                    },
+                    "style": {
+                      "stringValue": "squares"
                     },
                     "values": {
                       "arrayValue": {
@@ -435,9 +577,6 @@
                           }
                         ]
                       }
-                    },
-                    "style": {
-                      "stringValue": "squares"
                     },
                     "color": {
                       "stringValue": "green"
@@ -448,17 +587,23 @@
               {
                 "mapValue": {
                   "fields": {
-                    "id": {
-                      "stringValue": "66e054dc-c057-40e9-9be0-5eefa5adeb4c"
-                    },
                     "name": {
                       "stringValue": "Expertise"
+                    },
+                    "icon": {
+                      "nullValue": null
                     },
                     "type": {
                       "stringValue": "gauge"
                     },
-                    "icon": {
-                      "nullValue": null
+                    "id": {
+                      "stringValue": "66e054dc-c057-40e9-9be0-5eefa5adeb4c"
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "color": {
+                      "stringValue": "gold"
                     },
                     "values": {
                       "arrayValue": {
@@ -555,12 +700,6 @@
                           }
                         ]
                       }
-                    },
-                    "style": {
-                      "stringValue": "squares"
-                    },
-                    "color": {
-                      "stringValue": "gold"
                     }
                   }
                 }
@@ -574,11 +713,17 @@
                     "name": {
                       "stringValue": "Mastery"
                     },
+                    "icon": {
+                      "nullValue": null
+                    },
                     "type": {
                       "stringValue": "gauge"
                     },
-                    "icon": {
-                      "nullValue": null
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "color": {
+                      "stringValue": "pink"
                     },
                     "values": {
                       "arrayValue": {
@@ -675,12 +820,6 @@
                           }
                         ]
                       }
-                    },
-                    "style": {
-                      "stringValue": "squares"
-                    },
-                    "color": {
-                      "stringValue": "pink"
                     }
                   }
                 }
@@ -688,9 +827,33 @@
             ]
           }
         },
+        "id": {
+          "stringValue": "DVAYAArnbyHiS8IJL2tn"
+        },
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
         "tags": {
           "arrayValue": {
             "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Practical"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/assassin-pocket.svg"
+                    },
+                    "id": {
+                      "stringValue": "NcUQ4AwhIdnijFFkD4w4"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
               {
                 "mapValue": {
                   "fields": {
@@ -711,38 +874,140 @@
               }
             ]
           }
-        },
-        "categoryID": {
-          "stringValue": "zwCjm1nhIypHhXzAje6q"
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/weapons/punch.svg"
-        },
-        "id": {
-          "stringValue": "DVAYAArnbyHiS8IJL2tn"
-        },
-        "name": {
-          "stringValue": "Strength"
         }
       },
       "createTime": "2026-11-12T17:53:09.912407Z",
-      "updateTime": "2026-11-12T18:03:07.171141Z"
+      "updateTime": "2026-11-12T20:07:14.179949Z"
     },
     {
-      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/a154sgpRiohCnBYR390t",
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/KXk2sdIqXVuQxAaV573w",
       "fields": {
-        "name": {
-          "stringValue": "Universal Magical Theory"
+        "isFavorite": {
+          "booleanValue": false
+        },
+        "categoryID": {
+          "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
         },
         "id": {
-          "stringValue": "a154sgpRiohCnBYR390t"
+          "stringValue": "KXk2sdIqXVuQxAaV573w"
         },
         "icon": {
-          "stringValue": "assets/rpg-icons/effects/atom.svg"
+          "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
+        },
+        "attributes": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Description"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/black-book.svg"
+                    },
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "id": {
+                      "stringValue": "752f9055-f69f-4607-83ca-ca0a5942f774"
+                    },
+                    "value": {
+                      "stringValue": "Elodie was born joined to a fragment of a celestial truth. Those in a position to understand, will."
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "a174b22f-5471-48e3-a6e5-9b919dc3ea0a"
+                    },
+                    "name": {
+                      "stringValue": "Active"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "type": {
+                      "stringValue": "checkboxes"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "integerValue": "1"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "a139adea-a63e-4426-9267-f799023e385c"
+                    },
+                    "type": {
+                      "stringValue": "checkboxes"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "name": {
+                      "stringValue": "Permanent"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "integerValue": "1"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
         },
         "tags": {
           "arrayValue": {
             "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Luminous"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
+                    },
+                    "id": {
+                      "stringValue": "xQOSCIauMEEYFMzsoAQM"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
               {
                 "mapValue": {
                   "fields": {
@@ -764,8 +1029,63 @@
             ]
           }
         },
+        "unfolded": {
+          "booleanValue": true
+        },
+        "isTagFiltered": {
+          "booleanValue": true
+        },
+        "name": {
+          "stringValue": "Star Child (GM)"
+        }
+      },
+      "createTime": "2026-11-12T19:59:39.362543Z",
+      "updateTime": "2026-11-12T20:03:08.675658Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/TV8jQJ0XJGEM3EkpCY5R",
+      "fields": {
+        "name": {
+          "stringValue": "Grand Dark Empire"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/armors/jewel-crown.svg"
+        },
+        "id": {
+          "stringValue": "TV8jQJ0XJGEM3EkpCY5R"
+        },
         "categoryID": {
-          "stringValue": "zwCjm1nhIypHhXzAje6q"
+          "stringValue": "eT7wwJnXampLUSEEloEJ"
+        },
+        "isFavorite": {
+          "booleanValue": false
+        },
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Incomplete Goal"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/magnifying-glass.svg"
+                    },
+                    "id": {
+                      "stringValue": "xdbSOLyM2aPMVd5R7r44"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "unfolded": {
+          "booleanValue": true
         },
         "attributes": {
           "arrayValue": {
@@ -774,19 +1094,143 @@
                 "mapValue": {
                   "fields": {
                     "id": {
-                      "stringValue": "2801f038-35f9-4e72-af25-4f64a313c749"
-                    },
-                    "style": {
-                      "stringValue": "squares"
+                      "stringValue": "3132c3d7-2f88-4058-bb7a-f0ed62a4216d"
                     },
                     "name": {
-                      "stringValue": "Affinity"
+                      "stringValue": "Description"
                     },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/black-book.svg"
+                    },
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "value": {
+                      "stringValue": "Elodie intends to become a Dark Lord and one day found a Grand Dark Empire. This is a very normal goal for an eleven-year-old."
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "b6bbd6e9-3fdd-455d-8464-8fea91f335e0"
+                    },
+                    "name": {
+                      "stringValue": "Progress"
+                    },
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/stabbed-note.svg"
+                    },
+                    "value": {
+                      "stringValue": "Progress so far has been... somewhat limited."
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "8034ea0d-f174-4306-baab-1834b3b63374"
+                    },
+                    "name": {
+                      "stringValue": "Completion"
+                    },
+                    "color": {
+                      "stringValue": "default"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/trophy.svg"
+                    },
+                    "checkboxType": {
+                      "stringValue": "single"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "integerValue": "0"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "checkboxStyle": {
+                      "stringValue": "star"
+                    },
+                    "type": {
+                      "stringValue": "checkboxes"
+                    },
+                    "checkboxStateLength": {
+                      "integerValue": "2"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "createTime": "2026-11-12T19:54:44.084385Z",
+      "updateTime": "2026-11-12T19:56:21.617331Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/a154sgpRiohCnBYR390t",
+      "fields": {
+        "attributes": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "c5c2a4e8-92c8-4b05-9158-e83e2db00fdb"
+                    },
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/black-book.svg"
+                    },
+                    "name": {
+                      "stringValue": "Description"
+                    },
+                    "value": {
+                      "stringValue": "Magical theory has many individual branches. This skill represents understanding of the places where they intersect, and generalised magical comprehension."
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
                     "type": {
                       "stringValue": "gauge"
                     },
                     "icon": {
                       "nullValue": null
+                    },
+                    "name": {
+                      "stringValue": "Affinity"
+                    },
+                    "id": {
+                      "stringValue": "2801f038-35f9-4e72-af25-4f64a313c749"
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "color": {
+                      "stringValue": "green"
                     },
                     "values": {
                       "arrayValue": {
@@ -883,9 +1327,6 @@
                           }
                         ]
                       }
-                    },
-                    "color": {
-                      "stringValue": "green"
                     }
                   }
                 }
@@ -893,17 +1334,17 @@
               {
                 "mapValue": {
                   "fields": {
-                    "id": {
-                      "stringValue": "66e054dc-c057-40e9-9be0-5eefa5adeb4c"
-                    },
                     "name": {
                       "stringValue": "Expertise"
                     },
-                    "type": {
-                      "stringValue": "gauge"
+                    "id": {
+                      "stringValue": "66e054dc-c057-40e9-9be0-5eefa5adeb4c"
                     },
                     "icon": {
                       "nullValue": null
+                    },
+                    "type": {
+                      "stringValue": "gauge"
                     },
                     "style": {
                       "stringValue": "squares"
@@ -1013,20 +1454,20 @@
               {
                 "mapValue": {
                   "fields": {
-                    "icon": {
-                      "nullValue": null
-                    },
-                    "style": {
-                      "stringValue": "squares"
-                    },
                     "type": {
                       "stringValue": "gauge"
+                    },
+                    "icon": {
+                      "nullValue": null
                     },
                     "name": {
                       "stringValue": "Mastery"
                     },
                     "id": {
                       "stringValue": "c3f0dd3e-9d47-43e1-805c-497cfb882759"
+                    },
+                    "style": {
+                      "stringValue": "squares"
                     },
                     "values": {
                       "arrayValue": {
@@ -1132,28 +1573,76 @@
               }
             ]
           }
+        },
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Knowledge"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/book-cover.svg"
+                    },
+                    "id": {
+                      "stringValue": "VIiYA4WBnB1Cg2MoPhLF"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Magical"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
+                    },
+                    "id": {
+                      "stringValue": "L053TQzMKmx7DT9fErDj"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "name": {
+          "stringValue": "Universal Magical Theory"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/atom.svg"
+        },
+        "id": {
+          "stringValue": "a154sgpRiohCnBYR390t"
         }
       },
       "createTime": "2026-11-12T18:00:53.062803Z",
-      "updateTime": "2026-11-12T18:02:23.341660Z"
+      "updateTime": "2026-11-12T20:07:05.308442Z"
     },
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/nQE6KOtSeMzxT0bC1N0k",
       "fields": {
-        "id": {
-          "stringValue": "nQE6KOtSeMzxT0bC1N0k"
-        },
-        "icon": {
-          "nullValue": null
-        },
-        "name": {
-          "stringValue": "Rilly"
+        "categoryID": {
+          "stringValue": "dMlJkDE4IuAaFDN072q6"
         },
         "isFavorite": {
           "booleanValue": false
         },
-        "unfolded": {
-          "booleanValue": true
+        "tags": {
+          "arrayValue": {}
         },
         "attributes": {
           "arrayValue": {
@@ -1161,9 +1650,6 @@
               {
                 "mapValue": {
                   "fields": {
-                    "name": {
-                      "stringValue": "Relation"
-                    },
                     "id": {
                       "stringValue": "b511ee91-59b5-46a5-885b-8b10b4820999"
                     },
@@ -1173,8 +1659,11 @@
                     "icon": {
                       "stringValue": "assets/rpg-icons/items/heart-key.svg"
                     },
+                    "name": {
+                      "stringValue": "Relation"
+                    },
                     "value": {
-                      "stringValue": "Mistress / Elf"
+                      "stringValue": "Devoted Elf / Caretaker"
                     }
                   }
                 }
@@ -1182,11 +1671,35 @@
               {
                 "mapValue": {
                   "fields": {
-                    "name": {
-                      "stringValue": "Affinity"
+                    "id": {
+                      "stringValue": "6b5f46c0-7bcc-4a4f-affb-f7294cb66540"
                     },
+                    "type": {
+                      "stringValue": "counter"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/trophy.svg"
+                    },
+                    "name": {
+                      "stringValue": "Regard"
+                    },
+                    "currentValue": {
+                      "integerValue": "89"
+                    },
+                    "maxValue": {
+                      "nullValue": null
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
                     "id": {
                       "stringValue": "f345f9f7-add9-4cad-b533-d2fa2c2b7e53"
+                    },
+                    "name": {
+                      "stringValue": "Affection"
                     },
                     "type": {
                       "stringValue": "counter"
@@ -1194,11 +1707,11 @@
                     "icon": {
                       "stringValue": "assets/rpg-icons/effects/heart-plus.svg"
                     },
-                    "maxValue": {
-                      "integerValue": "100"
-                    },
                     "currentValue": {
-                      "integerValue": "95"
+                      "integerValue": "97"
+                    },
+                    "maxValue": {
+                      "nullValue": null
                     }
                   }
                 }
@@ -1206,23 +1719,20 @@
               {
                 "mapValue": {
                   "fields": {
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
-                    },
-                    "id": {
-                      "stringValue": "8fac121e-26d8-4938-b60a-73341cbc0af2"
-                    },
                     "name": {
                       "stringValue": "Starstruck (GM)"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
                     },
                     "type": {
                       "stringValue": "gauge"
                     },
+                    "id": {
+                      "stringValue": "8fac121e-26d8-4938-b60a-73341cbc0af2"
+                    },
                     "style": {
                       "stringValue": "squares"
-                    },
-                    "color": {
-                      "stringValue": "blue"
                     },
                     "values": {
                       "arrayValue": {
@@ -1364,6 +1874,9 @@
                           }
                         ]
                       }
+                    },
+                    "color": {
+                      "stringValue": "blue"
                     }
                   }
                 }
@@ -1371,6 +1884,9 @@
               {
                 "mapValue": {
                   "fields": {
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/circle-claws.svg"
+                    },
                     "type": {
                       "stringValue": "gauge"
                     },
@@ -1380,14 +1896,8 @@
                     "id": {
                       "stringValue": "45d585ff-75e8-455b-be6d-410d21398180"
                     },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/circle-claws.svg"
-                    },
                     "style": {
                       "stringValue": "squares"
-                    },
-                    "color": {
-                      "stringValue": "blue"
                     },
                     "values": {
                       "arrayValue": {
@@ -1529,6 +2039,9 @@
                           }
                         ]
                       }
+                    },
+                    "color": {
+                      "stringValue": "blue"
                     }
                   }
                 }
@@ -1536,15 +2049,21 @@
             ]
           }
         },
-        "tags": {
-          "arrayValue": {}
+        "unfolded": {
+          "booleanValue": true
         },
-        "categoryID": {
-          "stringValue": "dMlJkDE4IuAaFDN072q6"
+        "id": {
+          "stringValue": "nQE6KOtSeMzxT0bC1N0k"
+        },
+        "name": {
+          "stringValue": "Rilly"
+        },
+        "icon": {
+          "nullValue": null
         }
       },
       "createTime": "2026-11-12T17:49:44.062738Z",
-      "updateTime": "2026-11-12T18:49:23.157460Z"
+      "updateTime": "2026-11-12T19:51:22.469206Z"
     },
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/uXwq5Ebt3ung0qwb80T5",
@@ -1591,17 +2110,129 @@
             ]
           }
         },
+        "attributes": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/black-book.svg"
+                    },
+                    "name": {
+                      "stringValue": "Description"
+                    },
+                    "id": {
+                      "stringValue": "752f9055-f69f-4607-83ca-ca0a5942f774"
+                    },
+                    "value": {
+                      "stringValue": "All forms of direct magical contact are absorbed upon contact with Elodie, becoming entirely ineffectual. This applies equally to hostile and non-hostile magic."
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Active"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "type": {
+                      "stringValue": "checkboxes"
+                    },
+                    "id": {
+                      "stringValue": "a174b22f-5471-48e3-a6e5-9b919dc3ea0a"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "integerValue": "1"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "a139adea-a63e-4426-9267-f799023e385c"
+                    },
+                    "name": {
+                      "stringValue": "Permanent"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "type": {
+                      "stringValue": "checkboxes"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "integerValue": "1"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
         "categoryID": {
           "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
         },
-        "icon": {
-          "stringValue": "assets/rpg-icons/armors/fish-scales.svg"
+        "id": {
+          "stringValue": "uXwq5Ebt3ung0qwb80T5"
         },
         "name": {
           "stringValue": "Magic Absorption"
         },
+        "icon": {
+          "stringValue": "assets/rpg-icons/armors/fish-scales.svg"
+        }
+      },
+      "createTime": "2026-11-12T18:11:39.696295Z",
+      "updateTime": "2026-11-12T20:02:31.680999Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/y1IXHpU1EKMikxJBfWAo",
+      "fields": {
+        "name": {
+          "stringValue": "Blue Blood"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/bleeding-wound.svg"
+        },
+        "categoryID": {
+          "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
+        },
         "id": {
-          "stringValue": "uXwq5Ebt3ung0qwb80T5"
+          "stringValue": "y1IXHpU1EKMikxJBfWAo"
         },
         "attributes": {
           "arrayValue": {
@@ -1612,17 +2243,17 @@
                     "id": {
                       "stringValue": "752f9055-f69f-4607-83ca-ca0a5942f774"
                     },
-                    "name": {
-                      "stringValue": "Description"
-                    },
                     "type": {
                       "stringValue": "text"
                     },
                     "icon": {
-                      "nullValue": null
+                      "stringValue": "assets/rpg-icons/items/black-book.svg"
+                    },
+                    "name": {
+                      "stringValue": "Description"
                     },
                     "value": {
-                      "stringValue": "All forms of direct magical contact are absorbed upon contact with Elodie, becoming entirely ineffectual."
+                      "stringValue": "Elodie's blood is blue."
                     }
                   }
                 }
@@ -1695,14 +2326,7 @@
               }
             ]
           }
-        }
-      },
-      "createTime": "2026-11-12T18:11:39.696295Z",
-      "updateTime": "2026-11-12T18:40:31.412672Z"
-    },
-    {
-      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/y1IXHpU1EKMikxJBfWAo",
-      "fields": {
+        },
         "tags": {
           "arrayValue": {
             "values": [
@@ -1762,118 +2386,14 @@
               }
             ]
           }
-        },
-        "categoryID": {
-          "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
-        },
-        "attributes": {
-          "arrayValue": {
-            "values": [
-              {
-                "mapValue": {
-                  "fields": {
-                    "id": {
-                      "stringValue": "752f9055-f69f-4607-83ca-ca0a5942f774"
-                    },
-                    "name": {
-                      "stringValue": "Description"
-                    },
-                    "type": {
-                      "stringValue": "text"
-                    },
-                    "icon": {
-                      "nullValue": null
-                    },
-                    "value": {
-                      "stringValue": "Elodie's blood is blue."
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "icon": {
-                      "nullValue": null
-                    },
-                    "id": {
-                      "stringValue": "a174b22f-5471-48e3-a6e5-9b919dc3ea0a"
-                    },
-                    "type": {
-                      "stringValue": "checkboxes"
-                    },
-                    "name": {
-                      "stringValue": "Active"
-                    },
-                    "values": {
-                      "arrayValue": {
-                        "values": [
-                          {
-                            "mapValue": {
-                              "fields": {
-                                "value": {
-                                  "integerValue": "1"
-                                }
-                              }
-                            }
-                          }
-                        ]
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "icon": {
-                      "nullValue": null
-                    },
-                    "id": {
-                      "stringValue": "a139adea-a63e-4426-9267-f799023e385c"
-                    },
-                    "name": {
-                      "stringValue": "Permanent"
-                    },
-                    "type": {
-                      "stringValue": "checkboxes"
-                    },
-                    "values": {
-                      "arrayValue": {
-                        "values": [
-                          {
-                            "mapValue": {
-                              "fields": {
-                                "value": {
-                                  "integerValue": "1"
-                                }
-                              }
-                            }
-                          }
-                        ]
-                      }
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        },
-        "id": {
-          "stringValue": "y1IXHpU1EKMikxJBfWAo"
-        },
-        "name": {
-          "stringValue": "Blue Blood"
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/bleeding-wound.svg"
         }
       },
       "createTime": "2026-11-12T18:13:01.424917Z",
-      "updateTime": "2026-11-12T18:40:22.258179Z"
+      "updateTime": "2026-11-12T20:02:48.734418Z"
     }
   ],
-  "categoryCount": 4,
-  "itemCount": 6,
-  "status": "success"
+  "categoryCount": 5,
+  "itemCount": 8,
+  "status": "success",
+  "formattedSheet": "# Elodie Fawley\n\nLast updated: 2026-11-12T20:09:21.847Z\n\n## Connections\n\n### Rilly\n\n**Relation:** Devoted Elf / Caretaker\n\n**Regard:** 89\n\n**Affection:** 97\n\n**Starstruck (GM):** 14/15\n\n**Starbound (GM):** 13/15\n\n## Goals\n\n### Grand Dark Empire\n\nTags: Incomplete Goal\n\n**Description:** Elodie intends to become a Dark Lord and one day found a Grand Dark Empire. This is a very normal goal for an eleven-year-old.\n\n**Progress:** Progress so far has been... somewhat limited.\n\n**Completion:** {\"value\":0}\n\n## Traits\n\n### Star Child (GM)\n\nTags: Luminous, Magical\n\n**Description:** Elodie was born joined to a fragment of a celestial truth. Those in a position to understand, will.\n\n**Active:** 1\n\n**Permanent:** 1\n\n### Blue Blood\n\nTags: Luminous, Magical, Mundane\n\n**Description:** Elodie's blood is blue.\n\n**Active:** 1\n\n**Permanent:** 1\n\n### Magic Absorption\n\nTags: Luminous, Magical\n\n**Description:** All forms of direct magical contact are absorbed upon contact with Elodie, becoming entirely ineffectual. This applies equally to hostile and non-hostile magic.\n\n**Active:** 1\n\n**Permanent:** 1\n\n## Skills\n\n### Strength\n\nTags: Practical, Mundane\n\n**Description:** Physical power and application of force.\n\n**Affinity:** 0/10\n\n**Expertise:** 0/10\n\n**Mastery:** 0/10\n\n### Universal Magical Theory\n\nTags: Knowledge, Magical\n\n**Description:** Magical theory has many individual branches. This skill represents understanding of the places where they intersect, and generalised magical comprehension.\n\n**Affinity:** 0/10\n\n**Expertise:** 0/10\n\n**Mastery:** 0/10\n"
 }
