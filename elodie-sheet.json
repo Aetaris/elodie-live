@@ -1,0 +1,104 @@
+{
+  "fetchedAt": "2026-11-12T19:32:04.002Z",
+  "source": "KILN",
+  "document": {
+    "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/dMlJkDE4IuAaFDN072q6",
+    "fields": {
+      "itemIDs": {
+        "arrayValue": {
+          "values": [
+            {
+              "stringValue": "nQE6KOtSeMzxT0bC1N0k"
+            }
+          ]
+        }
+      },
+      "name": {
+        "stringValue": "Connections"
+      },
+      "icon": {
+        "stringValue": "assets/rpg-icons/effects/heart-wings.svg"
+      },
+      "attributes": {
+        "arrayValue": {
+          "values": [
+            {
+              "mapValue": {
+                "fields": {
+                  "id": {
+                    "stringValue": "b511ee91-59b5-46a5-885b-8b10b4820999"
+                  },
+                  "name": {
+                    "stringValue": "Relation"
+                  },
+                  "type": {
+                    "stringValue": "text"
+                  },
+                  "icon": {
+                    "stringValue": "assets/rpg-icons/items/heart-key.svg"
+                  }
+                }
+              }
+            },
+            {
+              "mapValue": {
+                "fields": {
+                  "id": {
+                    "stringValue": "f345f9f7-add9-4cad-b533-d2fa2c2b7e53"
+                  },
+                  "name": {
+                    "stringValue": "Affinity"
+                  },
+                  "type": {
+                    "stringValue": "counter"
+                  },
+                  "icon": {
+                    "stringValue": "assets/rpg-icons/effects/heart-plus.svg"
+                  }
+                }
+              }
+            },
+            {
+              "mapValue": {
+                "fields": {
+                  "id": {
+                    "stringValue": "8fac121e-26d8-4938-b60a-73341cbc0af2"
+                  },
+                  "name": {
+                    "stringValue": "Starstruck (GM)"
+                  },
+                  "type": {
+                    "stringValue": "gauge"
+                  },
+                  "icon": {
+                    "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
+                  }
+                }
+              }
+            },
+            {
+              "mapValue": {
+                "fields": {
+                  "id": {
+                    "stringValue": "45d585ff-75e8-455b-be6d-410d21398180"
+                  },
+                  "name": {
+                    "stringValue": "Starbound (GM)"
+                  },
+                  "type": {
+                    "stringValue": "gauge"
+                  },
+                  "icon": {
+                    "stringValue": "assets/rpg-icons/effects/circle-claws.svg"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "createTime": "2026-11-12T17:46:24.712579Z",
+    "updateTime": "2026-11-12T18:49:05.531259Z"
+  }
+}
