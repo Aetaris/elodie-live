@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T22:44:46.145Z
+Last updated: 2026-11-12T22:54:46.164Z
 
 ## Basic Information
 
@@ -52,11 +52,13 @@ None at present
 
 ### Elodie's Wand
 
-Walnut, with dragon heartstring core.  11¼ inches. Reasonably supple. No longer capable of being wielded by anyone except Elodie.
+Walnut, with dragon heartstring core.  11¼ inches. Reasonably supple. Acquired from Ollivanders.
+
+This wand is no longer capable of being wielded by anyone except Elodie.
 
 ### School Supplies
 
-Elodie possesses all the necessary supplies for Hogwarts. While at school, unless circumstances demand otherwise, assume she is carrying the necessary supplies for the day's classes.
+Elodie possesses all the necessary supplies for Hogwarts. While at school, unless circumstances dictate otherwise, assume she is carrying whatever supplies she would need for the day's classes.
 
 ## Discoveries
 
@@ -222,7 +224,7 @@ Tags: Knowledge, Magical
 
 **Expertise:** 3/10
 
-**Mastery:** 0/10
+**Mastery:** 1/10
 
 ### Charms
 
