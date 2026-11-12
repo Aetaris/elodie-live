@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T23:04:47.287Z
+Last updated: 2026-11-12T23:14:46.111Z
 
 ## Basic Information
 
@@ -116,7 +116,7 @@ Tags: Major Goal, Incomplete Goal
 
 **Description:** Elodie does, presumably, intend to complete her education.
 
-**Progress:** 
+**Progress:** Elodie has not yet reached Hogwarts.
 
 **Completion:** No
 
@@ -195,6 +195,18 @@ Tags: Practical, Mundane
 Tags: Practical, Mundane
 
 **Description:** Capacity for controlling one's expression or reactions; ability to suppress emotional tells.
+
+**Affinity:** 4/10
+
+**Expertise:** 1/10
+
+**Mastery:** 0/10
+
+### Insight
+
+Tags: Practical, Mundane
+
+**Description:** Capacity to recognise intentions, identify reactions, and read people beyond the surface level.
 
 **Affinity:** 4/10
 
