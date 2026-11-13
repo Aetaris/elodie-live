@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T03:14:46.710Z
+Last updated: 2026-11-13T03:19:33.123Z
 
 ## Basic Information
 
@@ -90,7 +90,9 @@ Tags: Luminous, Magical
 
 Tags: Luminous, Hogwarts, Student, Same Year
 
-**Relation:** I'm Special
+**Role:** 
+
+**Perception:** Special :)
 
 **Demeanour:** Confident
 
@@ -104,7 +106,9 @@ Tags: Luminous, Hogwarts, Student, Same Year
 
 Tags: Wider World, Follower
 
-**Relation:** Devoted Elf / Caretaker
+**Role:** Devoted elf / caretaker
+
+**Perception:** My light
 
 **Demeanour:** Devotional
 
@@ -118,7 +122,7 @@ Tags: Wider World, Follower
 
 Tags: Hogwarts, Student, Gryffindor
 
-**Relation:** 
+**Role:** 
 
 **Demeanour:** 
 
@@ -132,7 +136,7 @@ Tags: Hogwarts, Student, Gryffindor
 
 Tags: Hogwarts, Student, Same Year
 
-**Relation:** 
+**Role:** 
 
 **Demeanour:** Bemusedly friendly
 
@@ -146,7 +150,7 @@ Tags: Hogwarts, Student, Same Year
 
 Tags: Hogwarts, Student, Same Year
 
-**Relation:** 
+**Role:** 
 
 **Demeanour:** Curious
 
