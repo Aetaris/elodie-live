@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T01:04:46.113Z
+Last updated: 2026-11-13T01:24:46.191Z
 
 ## Basic Information
 
@@ -47,197 +47,6 @@ Elodie is a slightly short, slender eleven-year-old girl with fair skin, a round
 #### Ongoing Conditions
 
 None at present
-
-### Class Schedule
-
-Unrecognized module type: table
-
-```json
-{
-  "type": "table",
-  "title": "Class Schedule",
-  "icon": "assets/rpg-icons/armors/graduate-cap.svg",
-  "tableData": {
-    "columnsTitles": [
-      {
-        "title": null
-      },
-      {
-        "title": "Breakfast"
-      },
-      {
-        "title": "Class 1"
-      },
-      {
-        "title": "Class 2"
-      },
-      {
-        "title": "Lunch"
-      },
-      {
-        "title": "Class 3"
-      },
-      {
-        "title": "Class 4"
-      },
-      {
-        "title": "Dinner"
-      },
-      {
-        "title": "Night"
-      }
-    ],
-    "rows": [
-      {
-        "title": "Monday",
-        "values": [
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          }
-        ]
-      },
-      {
-        "title": "Tuesday",
-        "values": [
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          }
-        ]
-      },
-      {
-        "title": "Wednesday",
-        "values": [
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          }
-        ]
-      },
-      {
-        "title": "Thursday",
-        "values": [
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          }
-        ]
-      },
-      {
-        "title": "Friday",
-        "values": [
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          }
-        ]
-      }
-    ]
-  },
-  "fields": null
-}
-```
 
 ## Inventory
 
@@ -331,7 +140,7 @@ Tags: Hogwarts, Student
 
 **Regard:** 2
 
-**Affection:** 0
+**Affection:** 1
 
 ## Goals
 
