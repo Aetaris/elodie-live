@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T07:34:46.577Z
+Last updated: 2026-11-13T16:34:34.271Z
 
 ## Basic Information
 
@@ -257,6 +257,18 @@ Tags: Practical, Mundane
 **Affinity:** 6/10
 
 **Expertise:** 1/10
+
+**Mastery:** 1/10
+
+### Reaction Speed
+
+Tags: Practical, Mundane
+
+**Description:** How quickly Elodie can react to unexpected events.
+
+**Affinity:** 6/10
+
+**Expertise:** 0/0
 
 **Mastery:** 1/10
 
