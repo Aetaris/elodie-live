@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T01:24:46.191Z
+Last updated: 2026-11-13T01:34:47.128Z
 
 ## Basic Information
 
@@ -163,6 +163,16 @@ Tags: Major Goal, Incomplete Goal
 **Description:** Elodie does, presumably, intend to complete her education.
 
 **Progress:** Elodie has not yet reached Hogwarts.
+
+### The 1991 Ravenclaw Mystery
+
+Tags: Minor Goal, Incomplete Goal
+
+**Completion:** No
+
+**Description:** Apparently Professor Flitwick offers Ravenclaw students extremely advanced "mysteries" each year, to investigate for a chance at House points.
+
+**Progress:** 
 
 ## Traits
 
