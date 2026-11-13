@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T00:54:45.997Z
+Last updated: 2026-11-13T01:04:46.113Z
 
 ## Basic Information
 
@@ -63,25 +63,43 @@ Unrecognized module type: table
         "title": null
       },
       {
-        "title": "Mon."
+        "title": "Breakfast"
       },
       {
-        "title": "Tues."
+        "title": "Class 1"
       },
       {
-        "title": "Wed."
+        "title": "Class 2"
       },
       {
-        "title": "Thurs."
+        "title": "Lunch"
       },
       {
-        "title": "Fri."
+        "title": "Class 3"
+      },
+      {
+        "title": "Class 4"
+      },
+      {
+        "title": "Dinner"
+      },
+      {
+        "title": "Night"
       }
     ],
     "rows": [
       {
-        "title": "Breakfast",
+        "title": "Monday",
         "values": [
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
           {
             "value": null
           },
@@ -100,8 +118,17 @@ Unrecognized module type: table
         ]
       },
       {
-        "title": "Class 1",
+        "title": "Tuesday",
         "values": [
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
           {
             "value": null
           },
@@ -120,8 +147,17 @@ Unrecognized module type: table
         ]
       },
       {
-        "title": "Class 2",
+        "title": "Wednesday",
         "values": [
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
           {
             "value": null
           },
@@ -140,8 +176,17 @@ Unrecognized module type: table
         ]
       },
       {
-        "title": "Lunch",
+        "title": "Thursday",
         "values": [
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
           {
             "value": null
           },
@@ -160,7 +205,7 @@ Unrecognized module type: table
         ]
       },
       {
-        "title": "Class 3",
+        "title": "Friday",
         "values": [
           {
             "value": null
@@ -171,57 +216,6 @@ Unrecognized module type: table
           {
             "value": null
           },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          }
-        ]
-      },
-      {
-        "title": "Class 4",
-        "values": [
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          }
-        ]
-      },
-      {
-        "title": "Dinner",
-        "values": [
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          },
-          {
-            "value": null
-          }
-        ]
-      },
-      {
-        "title": "Night",
-        "values": [
           {
             "value": null
           },
@@ -610,3 +604,15 @@ Tags: Knowledge, Mundane, Language
 **Expertise:** 3/10
 
 **Mastery:** 1/10
+
+### Latin
+
+Tags: Knowledge, Mundane, Language
+
+**Description:** Command of the Latin language.
+
+**Affinity:** 6/10
+
+**Expertise:** 4/10
+
+**Mastery:** 0/10
