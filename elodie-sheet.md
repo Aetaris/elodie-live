@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T01:44:46.073Z
+Last updated: 2026-11-13T02:44:47.441Z
 
 ## Basic Information
 
@@ -126,7 +126,7 @@ Tags: Hogwarts, Student
 
 **Regard:** 1
 
-**Affection:** 2
+**Affection:** 3
 
 ### Lisa Turpin
 
