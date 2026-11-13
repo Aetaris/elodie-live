@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T01:34:47.128Z
+Last updated: 2026-11-13T01:44:46.073Z
 
 ## Basic Information
 
@@ -102,7 +102,7 @@ Tags: Wider World
 
 ### Oliver Wood
 
-Tags: Hogwarts, Student
+Tags: Hogwarts, Student, Gryffindor
 
 **Relation:** 
 
@@ -124,9 +124,9 @@ Tags: Hogwarts, Student
 
 **Details:** 
 
-**Regard:** 0
+**Regard:** 1
 
-**Affection:** 0
+**Affection:** 2
 
 ### Lisa Turpin
 
@@ -138,9 +138,9 @@ Tags: Hogwarts, Student
 
 **Details:** 
 
-**Regard:** 2
+**Regard:** 4
 
-**Affection:** 1
+**Affection:** 3
 
 ## Goals
 
