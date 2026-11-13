@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T03:00:21.366Z
+Last updated: 2026-11-13T03:14:46.710Z
 
 ## Basic Information
 
@@ -90,19 +90,19 @@ Tags: Luminous, Magical
 
 Tags: Luminous, Hogwarts, Student, Same Year
 
-**Relation:** Special
+**Relation:** I'm Special
 
 **Demeanour:** Confident
 
 **Details:** What does Elodie think when she looks in the mirror?
 
-**Affection:** 0
+**Affection:** 60
 
-**Regard:** 0
+**Regard:** 80
 
 ### Rilly
 
-Tags: Wider World
+Tags: Wider World, Follower
 
 **Relation:** Devoted Elf / Caretaker
 
@@ -134,7 +134,7 @@ Tags: Hogwarts, Student, Same Year
 
 **Relation:** 
 
-**Demeanour:** Bemusedly Friendly
+**Demeanour:** Bemusedly friendly
 
 **Details:** 
 
