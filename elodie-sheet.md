@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T00:04:46.469Z
+Last updated: 2026-11-13T00:24:46.321Z
 
 ## Basic Information
 
@@ -113,6 +113,20 @@ Tags: Hogwarts, Student
 **Regard:** -1
 
 **Affection:** 1
+
+### Hannah Abbott
+
+Tags: Hogwarts, Student
+
+**Relation:** Year-mate
+
+**Demeanour:** 
+
+**Details:** 
+
+**Regard:** 0
+
+**Affection:** 0
 
 ## Goals
 
