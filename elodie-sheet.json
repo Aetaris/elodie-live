@@ -1,16 +1,16 @@
 {
-  "fetchedAt": "2026-11-13T00:44:46.157Z",
+  "fetchedAt": "2026-11-13T00:54:45.997Z",
   "source": "KILN",
   "characterID": "qpELZmek1XZV5ASlci2a",
   "categories": [
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/GpivhVNlzmcYmyx0l94F",
       "fields": {
-        "isFavorite": {
-          "booleanValue": true
-        },
         "itemIDs": {
           "arrayValue": {}
+        },
+        "isFavorite": {
+          "booleanValue": true
         }
       },
       "createTime": "2026-11-12T17:39:12.895134Z",
@@ -21,6 +21,9 @@
       "fields": {
         "name": {
           "stringValue": "Discoveries"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/places/solar-system.svg"
         },
         "attributes": {
           "arrayValue": {
@@ -82,9 +85,6 @@
             ]
           }
         },
-        "icon": {
-          "stringValue": "assets/rpg-icons/places/solar-system.svg"
-        },
         "itemIDs": {
           "arrayValue": {
             "values": [
@@ -104,8 +104,23 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/dMlJkDE4IuAaFDN072q6",
       "fields": {
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/heart-wings.svg"
+        "itemIDs": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "nQE6KOtSeMzxT0bC1N0k"
+              },
+              {
+                "stringValue": "3j22xcLH0xtvMZfMXKzf"
+              },
+              {
+                "stringValue": "lzCEAFAp82KXfvOcCQm4"
+              },
+              {
+                "stringValue": "hHJzVLtO83f3F7Gs8XCE"
+              }
+            ]
+          }
         },
         "attributes": {
           "arrayValue": {
@@ -206,23 +221,8 @@
         "name": {
           "stringValue": "Connections"
         },
-        "itemIDs": {
-          "arrayValue": {
-            "values": [
-              {
-                "stringValue": "nQE6KOtSeMzxT0bC1N0k"
-              },
-              {
-                "stringValue": "3j22xcLH0xtvMZfMXKzf"
-              },
-              {
-                "stringValue": "lzCEAFAp82KXfvOcCQm4"
-              },
-              {
-                "stringValue": "hHJzVLtO83f3F7Gs8XCE"
-              }
-            ]
-          }
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/heart-wings.svg"
         }
       },
       "createTime": "2026-11-12T17:46:24.712579Z",
@@ -231,6 +231,24 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/eT7wwJnXampLUSEEloEJ",
       "fields": {
+        "icon": {
+          "stringValue": "assets/rpg-icons/items/treasure-map.svg"
+        },
+        "itemIDs": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "EXahAY7eKOceY4dNZSCY"
+              },
+              {
+                "stringValue": "gPP7FHcTx3hTdk1mfcua"
+              }
+            ]
+          }
+        },
+        "name": {
+          "stringValue": "Goals"
+        },
         "attributes": {
           "arrayValue": {
             "values": [
@@ -290,24 +308,6 @@
               }
             ]
           }
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/items/treasure-map.svg"
-        },
-        "name": {
-          "stringValue": "Goals"
-        },
-        "itemIDs": {
-          "arrayValue": {
-            "values": [
-              {
-                "stringValue": "EXahAY7eKOceY4dNZSCY"
-              },
-              {
-                "stringValue": "gPP7FHcTx3hTdk1mfcua"
-              }
-            ]
-          }
         }
       },
       "createTime": "2026-11-12T19:52:19.874128Z",
@@ -316,6 +316,27 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/kf0VKPxK9hQ36pOKe4Qp",
       "fields": {
+        "itemIDs": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "PURKH46xkfvAro8SKlVM"
+              },
+              {
+                "stringValue": "y1IXHpU1EKMikxJBfWAo"
+              },
+              {
+                "stringValue": "uXwq5Ebt3ung0qwb80T5"
+              },
+              {
+                "stringValue": "KXk2sdIqXVuQxAaV573w"
+              }
+            ]
+          }
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/boomerang-sun.svg"
+        },
         "attributes": {
           "arrayValue": {
             "values": [
@@ -376,27 +397,6 @@
             ]
           }
         },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/boomerang-sun.svg"
-        },
-        "itemIDs": {
-          "arrayValue": {
-            "values": [
-              {
-                "stringValue": "PURKH46xkfvAro8SKlVM"
-              },
-              {
-                "stringValue": "y1IXHpU1EKMikxJBfWAo"
-              },
-              {
-                "stringValue": "uXwq5Ebt3ung0qwb80T5"
-              },
-              {
-                "stringValue": "KXk2sdIqXVuQxAaV573w"
-              }
-            ]
-          }
-        },
         "name": {
           "stringValue": "Traits"
         }
@@ -407,11 +407,68 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterCategories/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/categories/zwCjm1nhIypHhXzAje6q",
       "fields": {
+        "itemIDs": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "DVAYAArnbyHiS8IJL2tn"
+              },
+              {
+                "stringValue": "zqYuh0Mrr7vGm0IMF6CR"
+              },
+              {
+                "stringValue": "3Oanp24GM3k2pgPqSFZE"
+              },
+              {
+                "stringValue": "eYI8TbaRIfcGW8pjk9eG"
+              },
+              {
+                "stringValue": "ntMu8QrWxQfKzqVwwX0c"
+              },
+              {
+                "stringValue": "Uu2CN9vppgMl4SZOdkA5"
+              },
+              {
+                "stringValue": "a154sgpRiohCnBYR390t"
+              },
+              {
+                "stringValue": "71O1SVGFzcXndn4oqmBN"
+              },
+              {
+                "stringValue": "E0CXhu1e65MWX8OOX3m9"
+              },
+              {
+                "stringValue": "cnNkHs7k20FvhZxtc30N"
+              },
+              {
+                "stringValue": "7LYLNbv9SOlMk1ZD3Usb"
+              },
+              {
+                "stringValue": "MJadqBgoMpRFpZv58SM2"
+              },
+              {
+                "stringValue": "l76KWCychwy2vWwobvTH"
+              },
+              {
+                "stringValue": "rO4lNj1oUa0oxxS0VlcM"
+              },
+              {
+                "stringValue": "4RugfpwP290UMedUeko2"
+              },
+              {
+                "stringValue": "lDQHmKvGUzKVAsljFlVu"
+              },
+              {
+                "stringValue": "pHCVfFvKPEfZyQL5PadI"
+              },
+              {
+                "stringValue": "JXTOdwHavj5ORdHnJHYI"
+              }
+            ]
+          }
+        },
         "name": {
           "stringValue": "Skills"
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/magic-swirl.svg"
         },
         "attributes": {
           "arrayValue": {
@@ -491,120 +548,18 @@
             ]
           }
         },
-        "itemIDs": {
-          "arrayValue": {
-            "values": [
-              {
-                "stringValue": "DVAYAArnbyHiS8IJL2tn"
-              },
-              {
-                "stringValue": "zqYuh0Mrr7vGm0IMF6CR"
-              },
-              {
-                "stringValue": "3Oanp24GM3k2pgPqSFZE"
-              },
-              {
-                "stringValue": "eYI8TbaRIfcGW8pjk9eG"
-              },
-              {
-                "stringValue": "ntMu8QrWxQfKzqVwwX0c"
-              },
-              {
-                "stringValue": "Uu2CN9vppgMl4SZOdkA5"
-              },
-              {
-                "stringValue": "a154sgpRiohCnBYR390t"
-              },
-              {
-                "stringValue": "71O1SVGFzcXndn4oqmBN"
-              },
-              {
-                "stringValue": "E0CXhu1e65MWX8OOX3m9"
-              },
-              {
-                "stringValue": "cnNkHs7k20FvhZxtc30N"
-              },
-              {
-                "stringValue": "7LYLNbv9SOlMk1ZD3Usb"
-              },
-              {
-                "stringValue": "MJadqBgoMpRFpZv58SM2"
-              },
-              {
-                "stringValue": "l76KWCychwy2vWwobvTH"
-              },
-              {
-                "stringValue": "rO4lNj1oUa0oxxS0VlcM"
-              },
-              {
-                "stringValue": "4RugfpwP290UMedUeko2"
-              },
-              {
-                "stringValue": "lDQHmKvGUzKVAsljFlVu"
-              }
-            ]
-          }
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/magic-swirl.svg"
         }
       },
       "createTime": "2026-11-12T17:50:57.822459Z",
-      "updateTime": "2026-11-12T23:13:50.791923Z"
+      "updateTime": "2026-11-13T00:48:46.258381Z"
     }
   ],
   "items": [
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/3Oanp24GM3k2pgPqSFZE",
       "fields": {
-        "tags": {
-          "arrayValue": {
-            "values": [
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Practical"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/assassin-pocket.svg"
-                    },
-                    "id": {
-                      "stringValue": "NcUQ4AwhIdnijFFkD4w4"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Mundane"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
-                    },
-                    "id": {
-                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        },
-        "categoryID": {
-          "stringValue": "zwCjm1nhIypHhXzAje6q"
-        },
-        "name": {
-          "stringValue": "Stealth"
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/armors/robe.svg"
-        },
         "attributes": {
           "arrayValue": {
             "values": [
@@ -992,8 +947,59 @@
             ]
           }
         },
+        "icon": {
+          "stringValue": "assets/rpg-icons/armors/robe.svg"
+        },
         "id": {
           "stringValue": "3Oanp24GM3k2pgPqSFZE"
+        },
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
+        "name": {
+          "stringValue": "Stealth"
+        },
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Practical"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/assassin-pocket.svg"
+                    },
+                    "id": {
+                      "stringValue": "NcUQ4AwhIdnijFFkD4w4"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Mundane"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
+                    },
+                    "id": {
+                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
         }
       },
       "createTime": "2026-11-12T21:24:10.792210Z",
@@ -1005,20 +1011,56 @@
         "unfolded": {
           "booleanValue": true
         },
-        "icon": {
-          "stringValue": "assets/rpg-icons/armors/graduate-cap.svg"
-        },
-        "categoryID": {
-          "stringValue": "dMlJkDE4IuAaFDN072q6"
+        "isFavorite": {
+          "booleanValue": false
         },
         "name": {
           "stringValue": "Oliver Wood"
         },
-        "isFavorite": {
-          "booleanValue": false
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Hogwarts"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/places/castle.svg"
+                    },
+                    "id": {
+                      "stringValue": "ChBxwAUfSLo8V8eO0c8I"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Student"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/armors/graduate-cap.svg"
+                    },
+                    "id": {
+                      "stringValue": "aon6KhENgYYXn8JVh8Rq"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
         },
-        "id": {
-          "stringValue": "3j22xcLH0xtvMZfMXKzf"
+        "categoryID": {
+          "stringValue": "dMlJkDE4IuAaFDN072q6"
         },
         "attributes": {
           "arrayValue": {
@@ -1128,47 +1170,11 @@
             ]
           }
         },
-        "tags": {
-          "arrayValue": {
-            "values": [
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Hogwarts"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/places/castle.svg"
-                    },
-                    "id": {
-                      "stringValue": "ChBxwAUfSLo8V8eO0c8I"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Student"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/armors/graduate-cap.svg"
-                    },
-                    "id": {
-                      "stringValue": "aon6KhENgYYXn8JVh8Rq"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              }
-            ]
-          }
+        "icon": {
+          "stringValue": "assets/rpg-icons/armors/graduate-cap.svg"
+        },
+        "id": {
+          "stringValue": "3j22xcLH0xtvMZfMXKzf"
         }
       },
       "createTime": "2026-11-12T23:41:02.180886Z",
@@ -1177,9 +1183,6 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/4RugfpwP290UMedUeko2",
       "fields": {
-        "id": {
-          "stringValue": "4RugfpwP290UMedUeko2"
-        },
         "attributes": {
           "arrayValue": {
             "values": [
@@ -1567,6 +1570,15 @@
             ]
           }
         },
+        "icon": {
+          "stringValue": "assets/rpg-icons/items/paper-plane.svg"
+        },
+        "id": {
+          "stringValue": "4RugfpwP290UMedUeko2"
+        },
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
         "tags": {
           "arrayValue": {
             "values": [
@@ -1611,12 +1623,6 @@
         },
         "name": {
           "stringValue": "Flying"
-        },
-        "categoryID": {
-          "stringValue": "zwCjm1nhIypHhXzAje6q"
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/items/paper-plane.svg"
         }
       },
       "createTime": "2026-11-12T21:38:26.012413Z",
@@ -1634,11 +1640,11 @@
         "categoryID": {
           "stringValue": "QfQECporQ0cKQO1OpFTN"
         },
-        "tags": {
-          "arrayValue": {}
-        },
         "name": {
           "stringValue": "Item"
+        },
+        "tags": {
+          "arrayValue": {}
         }
       },
       "createTime": "2026-11-12T17:41:34.001341Z",
@@ -1647,11 +1653,11 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/71O1SVGFzcXndn4oqmBN",
       "fields": {
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/falling-star.svg"
-        },
         "categoryID": {
           "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/falling-star.svg"
         },
         "attributes": {
           "arrayValue": {
@@ -2110,72 +2116,6 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/7LYLNbv9SOlMk1ZD3Usb",
       "fields": {
-        "tags": {
-          "arrayValue": {
-            "values": [
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Practical"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/assassin-pocket.svg"
-                    },
-                    "id": {
-                      "stringValue": "NcUQ4AwhIdnijFFkD4w4"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Knowledge"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/items/book-cover.svg"
-                    },
-                    "id": {
-                      "stringValue": "VIiYA4WBnB1Cg2MoPhLF"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Magical"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
-                    },
-                    "id": {
-                      "stringValue": "L053TQzMKmx7DT9fErDj"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        },
-        "categoryID": {
-          "stringValue": "zwCjm1nhIypHhXzAje6q"
-        },
-        "name": {
-          "stringValue": "Herbology"
-        },
         "attributes": {
           "arrayValue": {
             "values": [
@@ -2565,14 +2505,10 @@
         },
         "icon": {
           "stringValue": "assets/rpg-icons/effects/dead-wood.svg"
-        }
-      },
-      "createTime": "2026-11-12T21:31:52.339474Z",
-      "updateTime": "2026-11-12T21:31:52.339474Z"
-    },
-    {
-      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/DVAYAArnbyHiS8IJL2tn",
-      "fields": {
+        },
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
         "tags": {
           "arrayValue": {
             "values": [
@@ -2598,13 +2534,31 @@
                 "mapValue": {
                   "fields": {
                     "name": {
-                      "stringValue": "Mundane"
+                      "stringValue": "Knowledge"
                     },
                     "icon": {
-                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
+                      "stringValue": "assets/rpg-icons/items/book-cover.svg"
                     },
                     "id": {
-                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
+                      "stringValue": "VIiYA4WBnB1Cg2MoPhLF"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Magical"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
+                    },
+                    "id": {
+                      "stringValue": "L053TQzMKmx7DT9fErDj"
                     },
                     "isSelected": {
                       "booleanValue": true
@@ -2615,12 +2569,16 @@
             ]
           }
         },
-        "isFavorite": {
-          "booleanValue": false
-        },
-        "unfolded": {
-          "booleanValue": true
-        },
+        "name": {
+          "stringValue": "Herbology"
+        }
+      },
+      "createTime": "2026-11-12T21:31:52.339474Z",
+      "updateTime": "2026-11-12T21:31:52.339474Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/DVAYAArnbyHiS8IJL2tn",
+      "fields": {
         "attributes": {
           "arrayValue": {
             "values": [
@@ -3008,33 +2966,14 @@
             ]
           }
         },
+        "icon": {
+          "stringValue": "assets/rpg-icons/weapons/punch.svg"
+        },
         "name": {
           "stringValue": "Strength"
         },
-        "id": {
-          "stringValue": "DVAYAArnbyHiS8IJL2tn"
-        },
         "categoryID": {
           "stringValue": "zwCjm1nhIypHhXzAje6q"
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/weapons/punch.svg"
-        }
-      },
-      "createTime": "2026-11-12T17:53:09.912407Z",
-      "updateTime": "2026-11-12T21:19:45.430710Z"
-    },
-    {
-      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/E0CXhu1e65MWX8OOX3m9",
-      "fields": {
-        "categoryID": {
-          "stringValue": "zwCjm1nhIypHhXzAje6q"
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/entangled-typhoon.svg"
-        },
-        "id": {
-          "stringValue": "E0CXhu1e65MWX8OOX3m9"
         },
         "tags": {
           "arrayValue": {
@@ -3061,31 +3000,13 @@
                 "mapValue": {
                   "fields": {
                     "name": {
-                      "stringValue": "Knowledge"
+                      "stringValue": "Mundane"
                     },
                     "icon": {
-                      "stringValue": "assets/rpg-icons/items/book-cover.svg"
+                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
                     },
                     "id": {
-                      "stringValue": "VIiYA4WBnB1Cg2MoPhLF"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Magical"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
-                    },
-                    "id": {
-                      "stringValue": "L053TQzMKmx7DT9fErDj"
+                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
                     },
                     "isSelected": {
                       "booleanValue": true
@@ -3096,8 +3017,27 @@
             ]
           }
         },
-        "name": {
-          "stringValue": "Transfiguration"
+        "unfolded": {
+          "booleanValue": true
+        },
+        "isFavorite": {
+          "booleanValue": false
+        },
+        "id": {
+          "stringValue": "DVAYAArnbyHiS8IJL2tn"
+        }
+      },
+      "createTime": "2026-11-12T17:53:09.912407Z",
+      "updateTime": "2026-11-12T21:19:45.430710Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/E0CXhu1e65MWX8OOX3m9",
+      "fields": {
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/entangled-typhoon.svg"
         },
         "attributes": {
           "arrayValue": {
@@ -3485,6 +3425,72 @@
               }
             ]
           }
+        },
+        "id": {
+          "stringValue": "E0CXhu1e65MWX8OOX3m9"
+        },
+        "name": {
+          "stringValue": "Transfiguration"
+        },
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Practical"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/assassin-pocket.svg"
+                    },
+                    "id": {
+                      "stringValue": "NcUQ4AwhIdnijFFkD4w4"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Knowledge"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/book-cover.svg"
+                    },
+                    "id": {
+                      "stringValue": "VIiYA4WBnB1Cg2MoPhLF"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Magical"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
+                    },
+                    "id": {
+                      "stringValue": "L053TQzMKmx7DT9fErDj"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
         }
       },
       "createTime": "2026-11-12T21:27:02.352079Z",
@@ -3493,9 +3499,6 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/EXahAY7eKOceY4dNZSCY",
       "fields": {
-        "id": {
-          "stringValue": "EXahAY7eKOceY4dNZSCY"
-        },
         "attributes": {
           "arrayValue": {
             "values": [
@@ -3577,8 +3580,17 @@
             ]
           }
         },
+        "icon": {
+          "stringValue": "assets/rpg-icons/armors/crenel-crown.svg"
+        },
+        "id": {
+          "stringValue": "EXahAY7eKOceY4dNZSCY"
+        },
         "name": {
           "stringValue": "Grand Dark Empire"
+        },
+        "categoryID": {
+          "stringValue": "eT7wwJnXampLUSEEloEJ"
         },
         "tags": {
           "arrayValue": {
@@ -3621,16 +3633,476 @@
               }
             ]
           }
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/armors/crenel-crown.svg"
-        },
-        "categoryID": {
-          "stringValue": "eT7wwJnXampLUSEEloEJ"
         }
       },
       "createTime": "2026-11-12T21:54:32.497963Z",
       "updateTime": "2026-11-12T23:59:12.260807Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/JXTOdwHavj5ORdHnJHYI",
+      "fields": {
+        "attributes": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/black-book.svg"
+                    },
+                    "name": {
+                      "stringValue": "Description"
+                    },
+                    "id": {
+                      "stringValue": "c5c2a4e8-92c8-4b05-9158-e83e2db00fdb"
+                    },
+                    "value": {
+                      "stringValue": "Command of the French language."
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "2801f038-35f9-4e72-af25-4f64a313c749"
+                    },
+                    "type": {
+                      "stringValue": "gauge"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "name": {
+                      "stringValue": "Affinity"
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "color": {
+                      "stringValue": "green"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "name": {
+                      "stringValue": "Expertise"
+                    },
+                    "type": {
+                      "stringValue": "gauge"
+                    },
+                    "id": {
+                      "stringValue": "66e054dc-c057-40e9-9be0-5eefa5adeb4c"
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "color": {
+                      "stringValue": "gold"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "c3f0dd3e-9d47-43e1-805c-497cfb882759"
+                    },
+                    "name": {
+                      "stringValue": "Mastery"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "type": {
+                      "stringValue": "gauge"
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "color": {
+                      "stringValue": "pink"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "id": {
+          "stringValue": "JXTOdwHavj5ORdHnJHYI"
+        },
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Knowledge"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/book-cover.svg"
+                    },
+                    "id": {
+                      "stringValue": "VIiYA4WBnB1Cg2MoPhLF"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Mundane"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
+                    },
+                    "id": {
+                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Language"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/amplitude.svg"
+                    },
+                    "id": {
+                      "stringValue": "9csNf3rk2c7z751aSpbO"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "name": {
+          "stringValue": "French"
+        },
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/amplitude.svg"
+        }
+      },
+      "createTime": "2026-11-13T00:48:46.036181Z",
+      "updateTime": "2026-11-13T00:49:06.150812Z"
     },
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/MJadqBgoMpRFpZv58SM2",
@@ -3641,8 +4113,8 @@
         "categoryID": {
           "stringValue": "zwCjm1nhIypHhXzAje6q"
         },
-        "id": {
-          "stringValue": "MJadqBgoMpRFpZv58SM2"
+        "name": {
+          "stringValue": "Defense"
         },
         "tags": {
           "arrayValue": {
@@ -3703,6 +4175,9 @@
               }
             ]
           }
+        },
+        "id": {
+          "stringValue": "MJadqBgoMpRFpZv58SM2"
         },
         "attributes": {
           "arrayValue": {
@@ -4090,9 +4565,6 @@
               }
             ]
           }
-        },
-        "name": {
-          "stringValue": "Defense"
         }
       },
       "createTime": "2026-11-12T21:33:48.298687Z",
@@ -4101,60 +4573,6 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/PURKH46xkfvAro8SKlVM",
       "fields": {
-        "categoryID": {
-          "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
-        },
-        "tags": {
-          "arrayValue": {
-            "values": [
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Luminous"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
-                    },
-                    "id": {
-                      "stringValue": "xQOSCIauMEEYFMzsoAQM"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Magical"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
-                    },
-                    "id": {
-                      "stringValue": "L053TQzMKmx7DT9fErDj"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        },
-        "name": {
-          "stringValue": "Luminous"
-        },
-        "id": {
-          "stringValue": "PURKH46xkfvAro8SKlVM"
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
-        },
         "attributes": {
           "arrayValue": {
             "values": [
@@ -4271,6 +4689,60 @@
               }
             ]
           }
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
+        },
+        "id": {
+          "stringValue": "PURKH46xkfvAro8SKlVM"
+        },
+        "categoryID": {
+          "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
+        },
+        "name": {
+          "stringValue": "Luminous"
+        },
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Luminous"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
+                    },
+                    "id": {
+                      "stringValue": "xQOSCIauMEEYFMzsoAQM"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Magical"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
+                    },
+                    "id": {
+                      "stringValue": "L053TQzMKmx7DT9fErDj"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
         }
       },
       "createTime": "2026-11-12T21:40:40.005955Z",
@@ -4279,12 +4751,6 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/RBUkSRIz3C6C6gfQmXjs",
       "fields": {
-        "name": {
-          "stringValue": "Family Tree"
-        },
-        "categoryID": {
-          "stringValue": "Xt9n1BjXFlBpnUyH35h6"
-        },
         "tags": {
           "arrayValue": {
             "values": [
@@ -4309,8 +4775,8 @@
             ]
           }
         },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/dead-wood.svg"
+        "name": {
+          "stringValue": "Family Tree"
         },
         "id": {
           "stringValue": "RBUkSRIz3C6C6gfQmXjs"
@@ -4407,6 +4873,12 @@
               }
             ]
           }
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/dead-wood.svg"
+        },
+        "categoryID": {
+          "stringValue": "Xt9n1BjXFlBpnUyH35h6"
         }
       },
       "createTime": "2026-11-12T22:31:18.511017Z",
@@ -4415,9 +4887,6 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/U1RV7Rvm1evXagWfdMxX",
       "fields": {
-        "name": {
-          "stringValue": "Elodie's Nature"
-        },
         "attributes": {
           "arrayValue": {
             "values": [
@@ -4499,6 +4968,12 @@
             ]
           }
         },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
+        },
+        "name": {
+          "stringValue": "Elodie's Nature"
+        },
         "tags": {
           "arrayValue": {
             "values": [
@@ -4541,9 +5016,6 @@
             ]
           }
         },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
-        },
         "categoryID": {
           "stringValue": "Xt9n1BjXFlBpnUyH35h6"
         }
@@ -4556,6 +5028,51 @@
       "fields": {
         "name": {
           "stringValue": "Research"
+        },
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Practical"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/assassin-pocket.svg"
+                    },
+                    "id": {
+                      "stringValue": "NcUQ4AwhIdnijFFkD4w4"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Mundane"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
+                    },
+                    "id": {
+                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
         },
         "attributes": {
           "arrayValue": {
@@ -4944,51 +5461,6 @@
             ]
           }
         },
-        "tags": {
-          "arrayValue": {
-            "values": [
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Practical"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/assassin-pocket.svg"
-                    },
-                    "id": {
-                      "stringValue": "NcUQ4AwhIdnijFFkD4w4"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Mundane"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
-                    },
-                    "id": {
-                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        },
-        "categoryID": {
-          "stringValue": "zwCjm1nhIypHhXzAje6q"
-        },
         "icon": {
           "stringValue": "assets/rpg-icons/items/book-pile.svg"
         }
@@ -4999,6 +5471,15 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/a154sgpRiohCnBYR390t",
       "fields": {
+        "id": {
+          "stringValue": "a154sgpRiohCnBYR390t"
+        },
+        "unfolded": {
+          "booleanValue": true
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/atom.svg"
+        },
         "attributes": {
           "arrayValue": {
             "values": [
@@ -5386,17 +5867,8 @@
             ]
           }
         },
-        "id": {
-          "stringValue": "a154sgpRiohCnBYR390t"
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/atom.svg"
-        },
         "isFavorite": {
           "booleanValue": false
-        },
-        "unfolded": {
-          "booleanValue": true
         },
         "tags": {
           "arrayValue": {
@@ -5453,71 +5925,8 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/cnNkHs7k20FvhZxtc30N",
       "fields": {
-        "tags": {
-          "arrayValue": {
-            "values": [
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Practical"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/assassin-pocket.svg"
-                    },
-                    "id": {
-                      "stringValue": "NcUQ4AwhIdnijFFkD4w4"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Knowledge"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/items/book-cover.svg"
-                    },
-                    "id": {
-                      "stringValue": "VIiYA4WBnB1Cg2MoPhLF"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Magical"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
-                    },
-                    "id": {
-                      "stringValue": "L053TQzMKmx7DT9fErDj"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        },
-        "name": {
-          "stringValue": "Potions"
-        },
-        "categoryID": {
-          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/burning-embers.svg"
         },
         "attributes": {
           "arrayValue": {
@@ -5906,18 +6315,11 @@
             ]
           }
         },
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/burning-embers.svg"
-        }
-      },
-      "createTime": "2026-11-12T21:29:35.995366Z",
-      "updateTime": "2026-11-12T21:29:35.995366Z"
-    },
-    {
-      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/eYI8TbaRIfcGW8pjk9eG",
-      "fields": {
         "name": {
-          "stringValue": "Poker Face"
+          "stringValue": "Potions"
+        },
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
         },
         "tags": {
           "arrayValue": {
@@ -5944,13 +6346,31 @@
                 "mapValue": {
                   "fields": {
                     "name": {
-                      "stringValue": "Mundane"
+                      "stringValue": "Knowledge"
                     },
                     "icon": {
-                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
+                      "stringValue": "assets/rpg-icons/items/book-cover.svg"
                     },
                     "id": {
-                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
+                      "stringValue": "VIiYA4WBnB1Cg2MoPhLF"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Magical"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
+                    },
+                    "id": {
+                      "stringValue": "L053TQzMKmx7DT9fErDj"
                     },
                     "isSelected": {
                       "booleanValue": true
@@ -5960,7 +6380,14 @@
               }
             ]
           }
-        },
+        }
+      },
+      "createTime": "2026-11-12T21:29:35.995366Z",
+      "updateTime": "2026-11-12T21:29:35.995366Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/eYI8TbaRIfcGW8pjk9eG",
+      "fields": {
         "attributes": {
           "arrayValue": {
             "values": [
@@ -6348,21 +6775,14 @@
             ]
           }
         },
-        "categoryID": {
-          "stringValue": "zwCjm1nhIypHhXzAje6q"
-        },
         "icon": {
           "stringValue": "assets/rpg-icons/creatures/balaclava.svg"
-        }
-      },
-      "createTime": "2026-11-12T21:19:20.536805Z",
-      "updateTime": "2026-11-12T21:19:20.536805Z"
-    },
-    {
-      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/gPP7FHcTx3hTdk1mfcua",
-      "fields": {
-        "id": {
-          "stringValue": "gPP7FHcTx3hTdk1mfcua"
+        },
+        "name": {
+          "stringValue": "Poker Face"
+        },
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
         },
         "tags": {
           "arrayValue": {
@@ -6371,13 +6791,13 @@
                 "mapValue": {
                   "fields": {
                     "name": {
-                      "stringValue": "Major Goal"
+                      "stringValue": "Practical"
                     },
                     "icon": {
-                      "stringValue": "assets/rpg-icons/items/scroll-unfurled.svg"
+                      "stringValue": "assets/rpg-icons/effects/assassin-pocket.svg"
                     },
                     "id": {
-                      "stringValue": "S0ovqzqXCMAQ7M70D5IY"
+                      "stringValue": "NcUQ4AwhIdnijFFkD4w4"
                     },
                     "isSelected": {
                       "booleanValue": true
@@ -6388,14 +6808,14 @@
               {
                 "mapValue": {
                   "fields": {
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/items/magnifying-glass.svg"
-                    },
                     "name": {
-                      "stringValue": "Incomplete Goal"
+                      "stringValue": "Mundane"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
                     },
                     "id": {
-                      "stringValue": "xdbSOLyM2aPMVd5R7r44"
+                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
                     },
                     "isSelected": {
                       "booleanValue": true
@@ -6405,7 +6825,14 @@
               }
             ]
           }
-        },
+        }
+      },
+      "createTime": "2026-11-12T21:19:20.536805Z",
+      "updateTime": "2026-11-12T21:19:20.536805Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/gPP7FHcTx3hTdk1mfcua",
+      "fields": {
         "attributes": {
           "arrayValue": {
             "values": [
@@ -6487,14 +6914,59 @@
             ]
           }
         },
-        "name": {
-          "stringValue": "Hogwarts Attendance"
+        "icon": {
+          "stringValue": "assets/rpg-icons/places/castle.svg"
         },
         "categoryID": {
           "stringValue": "eT7wwJnXampLUSEEloEJ"
         },
-        "icon": {
-          "stringValue": "assets/rpg-icons/places/castle.svg"
+        "name": {
+          "stringValue": "Hogwarts Attendance"
+        },
+        "id": {
+          "stringValue": "gPP7FHcTx3hTdk1mfcua"
+        },
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Major Goal"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/scroll-unfurled.svg"
+                    },
+                    "id": {
+                      "stringValue": "S0ovqzqXCMAQ7M70D5IY"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/magnifying-glass.svg"
+                    },
+                    "name": {
+                      "stringValue": "Incomplete Goal"
+                    },
+                    "id": {
+                      "stringValue": "xdbSOLyM2aPMVd5R7r44"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
         }
       },
       "createTime": "2026-11-12T22:43:38.607028Z",
@@ -6503,18 +6975,6 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/hHJzVLtO83f3F7Gs8XCE",
       "fields": {
-        "categoryID": {
-          "stringValue": "dMlJkDE4IuAaFDN072q6"
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/armors/graduate-cap.svg"
-        },
-        "name": {
-          "stringValue": "Lisa Turpin"
-        },
-        "id": {
-          "stringValue": "hHJzVLtO83f3F7Gs8XCE"
-        },
         "tags": {
           "arrayValue": {
             "values": [
@@ -6556,6 +7016,18 @@
               }
             ]
           }
+        },
+        "name": {
+          "stringValue": "Lisa Turpin"
+        },
+        "id": {
+          "stringValue": "hHJzVLtO83f3F7Gs8XCE"
+        },
+        "categoryID": {
+          "stringValue": "dMlJkDE4IuAaFDN072q6"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/armors/graduate-cap.svg"
         },
         "attributes": {
           "arrayValue": {
@@ -6675,6 +7147,9 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/l76KWCychwy2vWwobvTH",
       "fields": {
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
         "icon": {
           "stringValue": "assets/rpg-icons/effects/star-formation.svg"
         },
@@ -7065,8 +7540,8 @@
             ]
           }
         },
-        "categoryID": {
-          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        "name": {
+          "stringValue": "Astronomy"
         },
         "tags": {
           "arrayValue": {
@@ -7127,9 +7602,6 @@
               }
             ]
           }
-        },
-        "name": {
-          "stringValue": "Astronomy"
         }
       },
       "createTime": "2026-11-12T21:35:48.082818Z",
@@ -7182,6 +7654,12 @@
               }
             ]
           }
+        },
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/items/astronaut-helmet.svg"
         },
         "attributes": {
           "arrayValue": {
@@ -7569,12 +8047,6 @@
               }
             ]
           }
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/items/astronaut-helmet.svg"
-        },
-        "categoryID": {
-          "stringValue": "zwCjm1nhIypHhXzAje6q"
         }
       },
       "createTime": "2026-11-12T22:55:06.515717Z",
@@ -7583,14 +8055,56 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/lzCEAFAp82KXfvOcCQm4",
       "fields": {
-        "categoryID": {
-          "stringValue": "dMlJkDE4IuAaFDN072q6"
+        "icon": {
+          "stringValue": "assets/rpg-icons/armors/graduate-cap.svg"
         },
         "id": {
           "stringValue": "lzCEAFAp82KXfvOcCQm4"
         },
-        "icon": {
-          "stringValue": "assets/rpg-icons/armors/graduate-cap.svg"
+        "categoryID": {
+          "stringValue": "dMlJkDE4IuAaFDN072q6"
+        },
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Hogwarts"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/places/castle.svg"
+                    },
+                    "id": {
+                      "stringValue": "ChBxwAUfSLo8V8eO0c8I"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/armors/graduate-cap.svg"
+                    },
+                    "name": {
+                      "stringValue": "Student"
+                    },
+                    "id": {
+                      "stringValue": "aon6KhENgYYXn8JVh8Rq"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
         },
         "name": {
           "stringValue": "Hannah Abbott"
@@ -7705,48 +8219,6 @@
               }
             ]
           }
-        },
-        "tags": {
-          "arrayValue": {
-            "values": [
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Hogwarts"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/places/castle.svg"
-                    },
-                    "id": {
-                      "stringValue": "ChBxwAUfSLo8V8eO0c8I"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/armors/graduate-cap.svg"
-                    },
-                    "name": {
-                      "stringValue": "Student"
-                    },
-                    "id": {
-                      "stringValue": "aon6KhENgYYXn8JVh8Rq"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              }
-            ]
-          }
         }
       },
       "createTime": "2026-11-13T00:24:09.282137Z",
@@ -7755,9 +8227,6 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/nQE6KOtSeMzxT0bC1N0k",
       "fields": {
-        "icon": {
-          "stringValue": "assets/rpg-icons/places/gate.svg"
-        },
         "attributes": {
           "arrayValue": {
             "values": [
@@ -7875,14 +8344,8 @@
             ]
           }
         },
-        "isFavorite": {
-          "booleanValue": false
-        },
         "name": {
           "stringValue": "Rilly"
-        },
-        "unfolded": {
-          "booleanValue": true
         },
         "tags": {
           "arrayValue": {
@@ -7908,21 +8371,8 @@
             ]
           }
         },
-        "id": {
-          "stringValue": "nQE6KOtSeMzxT0bC1N0k"
-        },
         "categoryID": {
           "stringValue": "dMlJkDE4IuAaFDN072q6"
-        }
-      },
-      "createTime": "2026-11-12T17:49:44.062738Z",
-      "updateTime": "2026-11-12T23:36:34.403033Z"
-    },
-    {
-      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/ntMu8QrWxQfKzqVwwX0c",
-      "fields": {
-        "id": {
-          "stringValue": "ntMu8QrWxQfKzqVwwX0c"
         },
         "unfolded": {
           "booleanValue": true
@@ -7931,7 +8381,20 @@
           "booleanValue": false
         },
         "icon": {
-          "stringValue": "assets/rpg-icons/armors/sunglasses.svg"
+          "stringValue": "assets/rpg-icons/places/gate.svg"
+        },
+        "id": {
+          "stringValue": "nQE6KOtSeMzxT0bC1N0k"
+        }
+      },
+      "createTime": "2026-11-12T17:49:44.062738Z",
+      "updateTime": "2026-11-12T23:36:34.403033Z"
+    },
+    {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/ntMu8QrWxQfKzqVwwX0c",
+      "fields": {
+        "name": {
+          "stringValue": "Insight"
         },
         "attributes": {
           "arrayValue": {
@@ -8320,9 +8783,6 @@
             ]
           }
         },
-        "categoryID": {
-          "stringValue": "zwCjm1nhIypHhXzAje6q"
-        },
         "tags": {
           "arrayValue": {
             "values": [
@@ -8365,16 +8825,497 @@
             ]
           }
         },
-        "name": {
-          "stringValue": "Insight"
+        "unfolded": {
+          "booleanValue": true
+        },
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/armors/sunglasses.svg"
+        },
+        "id": {
+          "stringValue": "ntMu8QrWxQfKzqVwwX0c"
+        },
+        "isFavorite": {
+          "booleanValue": false
         }
       },
       "createTime": "2026-11-12T23:13:41.360071Z",
       "updateTime": "2026-11-12T23:14:38.714539Z"
     },
     {
+      "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/pHCVfFvKPEfZyQL5PadI",
+      "fields": {
+        "id": {
+          "stringValue": "pHCVfFvKPEfZyQL5PadI"
+        },
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/amplitude.svg"
+        },
+        "attributes": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "type": {
+                      "stringValue": "text"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/black-book.svg"
+                    },
+                    "name": {
+                      "stringValue": "Description"
+                    },
+                    "id": {
+                      "stringValue": "c5c2a4e8-92c8-4b05-9158-e83e2db00fdb"
+                    },
+                    "value": {
+                      "stringValue": "Command of the English language."
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "2801f038-35f9-4e72-af25-4f64a313c749"
+                    },
+                    "type": {
+                      "stringValue": "gauge"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "name": {
+                      "stringValue": "Affinity"
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "color": {
+                      "stringValue": "green"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "id": {
+                      "stringValue": "66e054dc-c057-40e9-9be0-5eefa5adeb4c"
+                    },
+                    "name": {
+                      "stringValue": "Expertise"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "type": {
+                      "stringValue": "gauge"
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "color": {
+                      "stringValue": "gold"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Mastery"
+                    },
+                    "icon": {
+                      "nullValue": null
+                    },
+                    "type": {
+                      "stringValue": "gauge"
+                    },
+                    "id": {
+                      "stringValue": "c3f0dd3e-9d47-43e1-805c-497cfb882759"
+                    },
+                    "style": {
+                      "stringValue": "squares"
+                    },
+                    "values": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": true
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "value": {
+                                  "booleanValue": false
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "color": {
+                      "stringValue": "pink"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Knowledge"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/items/book-cover.svg"
+                    },
+                    "id": {
+                      "stringValue": "VIiYA4WBnB1Cg2MoPhLF"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Mundane"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
+                    },
+                    "id": {
+                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Language"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/amplitude.svg"
+                    },
+                    "id": {
+                      "stringValue": "9csNf3rk2c7z751aSpbO"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "name": {
+          "stringValue": "English"
+        }
+      },
+      "createTime": "2026-11-13T00:46:43.506293Z",
+      "updateTime": "2026-11-13T00:49:16.575048Z"
+    },
+    {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/rO4lNj1oUa0oxxS0VlcM",
       "fields": {
+        "icon": {
+          "stringValue": "assets/rpg-icons/items/wax-tablet.svg"
+        },
         "categoryID": {
           "stringValue": "zwCjm1nhIypHhXzAje6q"
         },
@@ -8809,9 +9750,6 @@
               }
             ]
           }
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/items/wax-tablet.svg"
         }
       },
       "createTime": "2026-11-12T21:37:12.234169Z",
@@ -8820,8 +9758,11 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/uXwq5Ebt3ung0qwb80T5",
       "fields": {
-        "name": {
-          "stringValue": "Magic Absorption"
+        "categoryID": {
+          "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/armors/fish-scales.svg"
         },
         "isFavorite": {
           "booleanValue": false
@@ -8943,6 +9884,12 @@
             ]
           }
         },
+        "id": {
+          "stringValue": "uXwq5Ebt3ung0qwb80T5"
+        },
+        "name": {
+          "stringValue": "Magic Absorption"
+        },
         "tags": {
           "arrayValue": {
             "values": [
@@ -8984,15 +9931,6 @@
               }
             ]
           }
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/armors/fish-scales.svg"
-        },
-        "id": {
-          "stringValue": "uXwq5Ebt3ung0qwb80T5"
-        },
-        "categoryID": {
-          "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
         }
       },
       "createTime": "2026-11-12T18:11:39.696295Z",
@@ -9001,17 +9939,74 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/y1IXHpU1EKMikxJBfWAo",
       "fields": {
-        "icon": {
-          "stringValue": "assets/rpg-icons/effects/bleeding-wound.svg"
-        },
         "categoryID": {
           "stringValue": "kf0VKPxK9hQ36pOKe4Qp"
         },
-        "name": {
-          "stringValue": "Blue Blood"
-        },
         "id": {
           "stringValue": "y1IXHpU1EKMikxJBfWAo"
+        },
+        "tags": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Luminous"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
+                    },
+                    "id": {
+                      "stringValue": "xQOSCIauMEEYFMzsoAQM"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Magical"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
+                    },
+                    "id": {
+                      "stringValue": "L053TQzMKmx7DT9fErDj"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Mundane"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
+                    },
+                    "id": {
+                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
+                    },
+                    "isSelected": {
+                      "booleanValue": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "name": {
+          "stringValue": "Blue Blood"
         },
         "attributes": {
           "arrayValue": {
@@ -9130,65 +10125,8 @@
             ]
           }
         },
-        "tags": {
-          "arrayValue": {
-            "values": [
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Luminous"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/barbed-sun.svg"
-                    },
-                    "id": {
-                      "stringValue": "xQOSCIauMEEYFMzsoAQM"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Magical"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/silver-bullet.svg"
-                    },
-                    "id": {
-                      "stringValue": "L053TQzMKmx7DT9fErDj"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              },
-              {
-                "mapValue": {
-                  "fields": {
-                    "name": {
-                      "stringValue": "Mundane"
-                    },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/hospital-cross.svg"
-                    },
-                    "id": {
-                      "stringValue": "AVFjHaOgYpafZhKlxqYv"
-                    },
-                    "isSelected": {
-                      "booleanValue": true
-                    }
-                  }
-                }
-              }
-            ]
-          }
+        "icon": {
+          "stringValue": "assets/rpg-icons/effects/bleeding-wound.svg"
         }
       },
       "createTime": "2026-11-12T18:13:01.424917Z",
@@ -9197,8 +10135,14 @@
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterItems/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/items/zqYuh0Mrr7vGm0IMF6CR",
       "fields": {
-        "id": {
-          "stringValue": "zqYuh0Mrr7vGm0IMF6CR"
+        "categoryID": {
+          "stringValue": "zwCjm1nhIypHhXzAje6q"
+        },
+        "icon": {
+          "stringValue": "assets/rpg-icons/armors/cape.svg"
+        },
+        "name": {
+          "stringValue": "Agility"
         },
         "tags": {
           "arrayValue": {
@@ -9241,6 +10185,9 @@
               }
             ]
           }
+        },
+        "id": {
+          "stringValue": "zqYuh0Mrr7vGm0IMF6CR"
         },
         "attributes": {
           "arrayValue": {
@@ -9628,15 +10575,6 @@
               }
             ]
           }
-        },
-        "name": {
-          "stringValue": "Agility"
-        },
-        "categoryID": {
-          "stringValue": "zwCjm1nhIypHhXzAje6q"
-        },
-        "icon": {
-          "stringValue": "assets/rpg-icons/armors/cape.svg"
         }
       },
       "createTime": "2026-11-12T21:16:53.893762Z",
@@ -9650,20 +10588,14 @@
         "default": {
           "booleanValue": true
         },
-        "id": {
-          "stringValue": "biD4HqvlAf3mrHNmDe0x"
-        },
-        "name": {
-          "stringValue": "Basic Information"
-        },
         "modules": {
           "arrayValue": {
             "values": [
               {
                 "mapValue": {
                   "fields": {
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/armors/pointy-hat.svg"
+                    "title": {
+                      "stringValue": "Biography"
                     },
                     "type": {
                       "stringValue": "textfields"
@@ -9722,11 +10654,11 @@
                           {
                             "mapValue": {
                               "fields": {
-                                "value": {
-                                  "stringValue": "Fawley Manor"
-                                },
                                 "title": {
                                   "stringValue": "Residence"
+                                },
+                                "value": {
+                                  "stringValue": "Fawley Manor"
                                 }
                               }
                             }
@@ -9734,11 +10666,11 @@
                           {
                             "mapValue": {
                               "fields": {
-                                "title": {
-                                  "stringValue": "Guardian"
-                                },
                                 "value": {
                                   "stringValue": "Rilly (legally Cecily Fawley)"
+                                },
+                                "title": {
+                                  "stringValue": "Guardian"
                                 }
                               }
                             }
@@ -9770,8 +10702,8 @@
                         ]
                       }
                     },
-                    "title": {
-                      "stringValue": "Biography"
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/armors/pointy-hat.svg"
                     },
                     "hidden": {
                       "booleanValue": false
@@ -9784,6 +10716,9 @@
                   "fields": {
                     "icon": {
                       "stringValue": "assets/rpg-icons/armors/robe.svg"
+                    },
+                    "title": {
+                      "stringValue": "Appearance"
                     },
                     "fields": {
                       "arrayValue": {
@@ -9805,9 +10740,6 @@
                     },
                     "type": {
                       "stringValue": "textfields"
-                    },
-                    "title": {
-                      "stringValue": "Appearance"
                     }
                   }
                 }
@@ -9815,20 +10747,17 @@
               {
                 "mapValue": {
                   "fields": {
-                    "id": {
-                      "stringValue": "5ee543ca-0c49-4df2-ad31-af0a4c6376c6"
-                    },
                     "display": {
                       "nullValue": null
+                    },
+                    "title": {
+                      "stringValue": "Current Status"
                     },
                     "type": {
                       "stringValue": "modulecontainer"
                     },
-                    "icon": {
-                      "stringValue": "assets/rpg-icons/effects/templar-heart.svg"
-                    },
-                    "title": {
-                      "stringValue": "Current Status"
+                    "id": {
+                      "stringValue": "5ee543ca-0c49-4df2-ad31-af0a4c6376c6"
                     },
                     "modules": {
                       "arrayValue": {
@@ -9836,11 +10765,11 @@
                           {
                             "mapValue": {
                               "fields": {
-                                "title": {
-                                  "stringValue": "Galleons on person"
-                                },
                                 "type": {
                                   "stringValue": "counters"
+                                },
+                                "icon": {
+                                  "stringValue": "assets/rpg-icons/money/coins.svg"
                                 },
                                 "fields": {
                                   "arrayValue": {
@@ -9848,11 +10777,11 @@
                                       {
                                         "mapValue": {
                                           "fields": {
-                                            "maxValue": {
-                                              "integerValue": "0"
-                                            },
                                             "currentValue": {
                                               "integerValue": "100"
+                                            },
+                                            "maxValue": {
+                                              "integerValue": "0"
                                             },
                                             "title": {
                                               "stringValue": ""
@@ -9863,8 +10792,8 @@
                                     ]
                                   }
                                 },
-                                "icon": {
-                                  "stringValue": "assets/rpg-icons/money/coins.svg"
+                                "title": {
+                                  "stringValue": "Galleons on person"
                                 }
                               }
                             }
@@ -9872,6 +10801,9 @@
                           {
                             "mapValue": {
                               "fields": {
+                                "type": {
+                                  "stringValue": "gauge"
+                                },
                                 "fields": {
                                   "arrayValue": {
                                     "values": [
@@ -9935,17 +10867,14 @@
                                     ]
                                   }
                                 },
-                                "icon": {
-                                  "nullValue": null
+                                "title": {
+                                  "stringValue": "Injury"
                                 },
                                 "color": {
                                   "stringValue": "red"
                                 },
-                                "type": {
-                                  "stringValue": "gauge"
-                                },
-                                "title": {
-                                  "stringValue": "Injury"
+                                "icon": {
+                                  "nullValue": null
                                 },
                                 "style": {
                                   "stringValue": "progressbar"
@@ -9956,8 +10885,8 @@
                           {
                             "mapValue": {
                               "fields": {
-                                "style": {
-                                  "stringValue": "progressbar"
+                                "type": {
+                                  "stringValue": "gauge"
                                 },
                                 "fields": {
                                   "arrayValue": {
@@ -10031,8 +10960,8 @@
                                 "color": {
                                   "stringValue": "gold"
                                 },
-                                "type": {
-                                  "stringValue": "gauge"
+                                "style": {
+                                  "stringValue": "progressbar"
                                 }
                               }
                             }
@@ -10040,15 +10969,6 @@
                           {
                             "mapValue": {
                               "fields": {
-                                "color": {
-                                  "stringValue": "pink"
-                                },
-                                "style": {
-                                  "stringValue": "progressbar"
-                                },
-                                "title": {
-                                  "stringValue": "Magical Exhaustion"
-                                },
                                 "fields": {
                                   "arrayValue": {
                                     "values": [
@@ -10115,6 +11035,15 @@
                                 "type": {
                                   "stringValue": "gauge"
                                 },
+                                "title": {
+                                  "stringValue": "Magical Exhaustion"
+                                },
+                                "style": {
+                                  "stringValue": "progressbar"
+                                },
+                                "color": {
+                                  "stringValue": "pink"
+                                },
                                 "display": {
                                   "nullValue": null
                                 }
@@ -10124,9 +11053,6 @@
                           {
                             "mapValue": {
                               "fields": {
-                                "title": {
-                                  "stringValue": "Ongoing Conditions"
-                                },
                                 "type": {
                                   "stringValue": "textfields"
                                 },
@@ -10147,26 +11073,614 @@
                                       }
                                     ]
                                   }
+                                },
+                                "title": {
+                                  "stringValue": "Ongoing Conditions"
                                 }
                               }
                             }
                           }
                         ]
                       }
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/effects/templar-heart.svg"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "type": {
+                      "stringValue": "table"
+                    },
+                    "title": {
+                      "stringValue": "Class Schedule"
+                    },
+                    "icon": {
+                      "stringValue": "assets/rpg-icons/armors/graduate-cap.svg"
+                    },
+                    "tableData": {
+                      "mapValue": {
+                        "fields": {
+                          "columnsTitles": {
+                            "arrayValue": {
+                              "values": [
+                                {
+                                  "mapValue": {
+                                    "fields": {
+                                      "title": {
+                                        "nullValue": null
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "mapValue": {
+                                    "fields": {
+                                      "title": {
+                                        "stringValue": "Mon."
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "mapValue": {
+                                    "fields": {
+                                      "title": {
+                                        "stringValue": "Tues."
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "mapValue": {
+                                    "fields": {
+                                      "title": {
+                                        "stringValue": "Wed."
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "mapValue": {
+                                    "fields": {
+                                      "title": {
+                                        "stringValue": "Thurs."
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "mapValue": {
+                                    "fields": {
+                                      "title": {
+                                        "stringValue": "Fri."
+                                      }
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          "rows": {
+                            "arrayValue": {
+                              "values": [
+                                {
+                                  "mapValue": {
+                                    "fields": {
+                                      "title": {
+                                        "stringValue": "Breakfast"
+                                      },
+                                      "values": {
+                                        "arrayValue": {
+                                          "values": [
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "mapValue": {
+                                    "fields": {
+                                      "title": {
+                                        "stringValue": "Class 1"
+                                      },
+                                      "values": {
+                                        "arrayValue": {
+                                          "values": [
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "mapValue": {
+                                    "fields": {
+                                      "title": {
+                                        "stringValue": "Class 2"
+                                      },
+                                      "values": {
+                                        "arrayValue": {
+                                          "values": [
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "mapValue": {
+                                    "fields": {
+                                      "title": {
+                                        "stringValue": "Lunch"
+                                      },
+                                      "values": {
+                                        "arrayValue": {
+                                          "values": [
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "mapValue": {
+                                    "fields": {
+                                      "title": {
+                                        "stringValue": "Class 3"
+                                      },
+                                      "values": {
+                                        "arrayValue": {
+                                          "values": [
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "mapValue": {
+                                    "fields": {
+                                      "title": {
+                                        "stringValue": "Class 4"
+                                      },
+                                      "values": {
+                                        "arrayValue": {
+                                          "values": [
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "mapValue": {
+                                    "fields": {
+                                      "title": {
+                                        "stringValue": "Dinner"
+                                      },
+                                      "values": {
+                                        "arrayValue": {
+                                          "values": [
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "mapValue": {
+                                    "fields": {
+                                      "title": {
+                                        "stringValue": "Night"
+                                      },
+                                      "values": {
+                                        "arrayValue": {
+                                          "values": [
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            {
+                                              "mapValue": {
+                                                "fields": {
+                                                  "value": {
+                                                    "nullValue": null
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          ]
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "fields": {
+                      "nullValue": null
                     }
                   }
                 }
               }
             ]
           }
+        },
+        "id": {
+          "stringValue": "biD4HqvlAf3mrHNmDe0x"
+        },
+        "name": {
+          "stringValue": "Basic Information"
         }
       },
       "createTime": "2026-11-12T17:39:13.212323Z",
-      "updateTime": "2026-11-12T22:26:37.114319Z"
+      "updateTime": "2026-11-13T00:54:36.618766Z"
     },
     {
       "name": "projects/kilnrpg/databases/(default)/documents/userCharacterSheets/lT5OJsiYr1aoQLU4RZufCjBjKZj2/characters/qpELZmek1XZV5ASlci2a/sheets/uzM50Crn6Q3wNsXX1HKi",
       "fields": {
+        "name": {
+          "stringValue": "Inventory"
+        },
+        "id": {
+          "stringValue": "uzM50Crn6Q3wNsXX1HKi"
+        },
         "modules": {
           "arrayValue": {
             "values": [
@@ -10238,12 +11752,6 @@
               }
             ]
           }
-        },
-        "id": {
-          "stringValue": "uzM50Crn6Q3wNsXX1HKi"
-        },
-        "name": {
-          "stringValue": "Inventory"
         }
       },
       "createTime": "2026-11-12T21:07:14.951060Z",
@@ -10251,8 +11759,8 @@
     }
   ],
   "categoryCount": 6,
-  "itemCount": 29,
+  "itemCount": 31,
   "sheetCount": 2,
   "status": "success",
-  "formattedSheet": "# Elodie Fawley\n\nLast updated: 2026-11-13T00:44:46.157Z\n\n## Basic Information\n\n### Biography\n\n**Name:** Elodie Fawley\n\n**Age:** Eleven (Hogwarts first-year, inbound)\n\n**Birthday:** 14 May, 1980\n\n**Blood Status:** Pureblood\n\n**Residence:** Fawley Manor\n\n**Guardian:** Rilly (legally Cecily Fawley)\n\n**House:** TBD\n\n**Grand Dark Empire:** Not Yet Founded\n\n### Appearance\n\nElodie is a slightly short, slender eleven-year-old girl with fair skin, a round face, and thick, dark brown hair that falls a little past her shoulders, usually worn loose or tied back with a ribbon. Her features are expressive, and she has a habit of smiling rather readily. Her most striking feature is her extraordinarily vivid blue eyes, an almost startling shade that stands out even against her otherwise unremarkable appearance. She generally dresses neatly, although she's not especially concerned with remaining neat once she's occupied with something interesting.\n\n### Current Status\n\n#### Galleons on person\n\n100\n\n#### Injury\n\n0/5\n\n#### Exhaustion\n\n0/5\n\n#### Magical Exhaustion\n\n0/5\n\n#### Ongoing Conditions\n\nNone at present\n\n## Inventory\n\n### Elodie's Wand\n\nWalnut, with dragon heartstring core.  11¼ inches. Reasonably supple. Acquired from Ollivanders.\n\nThis wand is no longer capable of being wielded by anyone except Elodie.\n\n### School Supplies\n\nElodie possesses all the necessary supplies for Hogwarts. While at school, unless circumstances dictate otherwise, assume she is carrying whatever supplies she would need for the day's classes.\n\n## Discoveries\n\n### Family Tree\n\nTags: Mundane\n\n**Description:** Who were the Fawleys?\n\n**Investigation:** Elodie is the daughter of Landon and Cecily Fawley. Her father was murdered, along with Elodie's grandparents and paternal aunt, eight months prior to Elodie's birth, by Death Eaters, because Voldemort wished to make a demonstration to other pureblood families claiming neutrality during the war that refusing to aid him would be treated as opposition; Cecily survived by virtue of not being present at the time. Cecily died in childbirth. Elodie has no known surviving family, or at least none who bear the Fawley name.\n\nRilly has never accepted the idea of allowing Elodie to be raised by another family, which is the original cause for the public deception of Cecily's \"survival\".\n\n**Pursuing?:** No\n\n### Elodie's Nature\n\nTags: Luminous, Magical\n\n**Description:** Elodie doesn't know what she is, exactly.\n\n**Investigation:** \n\n**Pursuing?:** No\n\n## Connections\n\n### Rilly\n\nTags: Wider World\n\n**Relation:** Devoted Elf / Caretaker\n\n**Demeanour:** Devotional\n\n**Details:** Rilly has spent eleven years raising Elodie. The bond is irreplaceable.\n\n**Regard:** 89\n\n**Affection:** 97\n\n### Oliver Wood\n\nTags: Hogwarts, Student\n\n**Relation:** \n\n**Demeanour:** \n\n**Details:** \n\n**Regard:** -1\n\n**Affection:** 1\n\n### Hannah Abbott\n\nTags: Hogwarts, Student\n\n**Relation:** Year-mate\n\n**Demeanour:** \n\n**Details:** \n\n**Regard:** 0\n\n**Affection:** 0\n\n### Lisa Turpin\n\nTags: Hogwarts, Student\n\n**Relation:** Year-mate\n\n**Demeanour:** \n\n**Details:** \n\n**Regard:** 2\n\n**Affection:** 0\n\n## Goals\n\n### Grand Dark Empire\n\nTags: Major Goal, Incomplete Goal\n\n**Completion:** No\n\n**Description:** Elodie intends to become a Dark Lord and one day found a Grand Dark Empire. This is a very normal goal for an eleven-year-old.\n\n**Progress:** Progress so far has been... somewhat limited.\n\n### Hogwarts Attendance\n\nTags: Major Goal, Incomplete Goal\n\n**Completion:** No\n\n**Description:** Elodie does, presumably, intend to complete her education.\n\n**Progress:** Elodie has not yet reached Hogwarts.\n\n## Traits\n\n### Luminous\n\nTags: Luminous, Magical\n\n**Description:** There's something special about Elodie. [There is more to this trait to be discovered.]\n\n**Active:** Yes\n\n**Immutable:** Yes\n\n### Blue Blood\n\nTags: Luminous, Magical, Mundane\n\n**Description:** Elodie's blood is blue. This is somewhat notable in a world where blood is not, as a rule, blue. Allowing others to discover this could have consequences.\n\n**Active:** Yes\n\n**Immutable:** Yes\n\n### Magic Absorption\n\nTags: Luminous, Magical\n\n**Description:** All forms of direct magical contact are absorbed upon contact with Elodie, becoming entirely ineffectual. This applies equally to hostile and non-hostile magic.\n\n**Active:** Yes\n\n**Immutable:** Yes\n\n## Skills\n\n### Strength\n\nTags: Practical, Mundane\n\n**Description:** Physical power and application of force.\n\n**Affinity:** 3/10\n\n**Expertise:** 0/10\n\n**Mastery:** 0/10\n\n### Agility\n\nTags: Practical, Mundane\n\n**Description:** Dexterity, quick movement, evasion, acrobatics.\n\n**Affinity:** 6/10\n\n**Expertise:** 1/10\n\n**Mastery:** 1/10\n\n### Stealth\n\nTags: Practical, Mundane\n\n**Description:** Capacity to move quietly, diminish one's presence, evade notice or detection, and generally take action without being observed doing so.\n\n**Affinity:** 5/10\n\n**Expertise:** 1/10\n\n**Mastery:** 1/10\n\n### Poker Face\n\nTags: Practical, Mundane\n\n**Description:** Capacity for controlling one's expression or reactions; ability to suppress emotional tells.\n\n**Affinity:** 4/10\n\n**Expertise:** 1/10\n\n**Mastery:** 0/10\n\n### Insight\n\nTags: Practical, Mundane\n\n**Description:** Capacity to recognise intentions, identify reactions, and read people beyond the surface level.\n\n**Affinity:** 4/10\n\n**Expertise:** 1/10\n\n**Mastery:** 0/10\n\n### Research\n\nTags: Practical, Mundane\n\n**Description:** Capacity to turn sources of knowledge into knowledge.\n\n**Affinity:** 8/10\n\n**Expertise:** 4/10\n\n**Mastery:** 3/10\n\n### Universal Magical Theory\n\nTags: Knowledge, Magical\n\n**Description:** Magical theory has many individual branches. This skill represents understanding of the places where they intersect, and generalised magical comprehension.\n\n**Affinity:** 8/10\n\n**Expertise:** 3/10\n\n**Mastery:** 1/10\n\n### Charms\n\nTags: Practical, Knowledge, Magical\n\n**Description:** The knowledge and application of the magical field of Charms.\n\n**Affinity:** 8/10\n\n**Expertise:** 2/10\n\n**Mastery:** 1/10\n\n### Transfiguration\n\nTags: Practical, Knowledge, Magical\n\n**Description:** The knowledge and application of the magical field of Transfiguration.\n\n**Affinity:** 5/10\n\n**Expertise:** 1/10\n\n**Mastery:** 0/10\n\n### Potions\n\nTags: Practical, Knowledge, Magical\n\n**Description:** The knowledge and application of the magical field of Potions.\n\n**Affinity:** 4/10\n\n**Expertise:** 2/10\n\n**Mastery:** 0/10\n\n### Herbology\n\nTags: Practical, Knowledge, Magical\n\n**Description:** The knowledge and application of the magical field of Herbology.\n\n**Affinity:** 6/10\n\n**Expertise:** 2/10\n\n**Mastery:** 1/10\n\n### Defense\n\nTags: Practical, Knowledge, Magical\n\n**Description:** The knowledge and application of the magical field of Defense (Against the Dark Arts).\n\n**Affinity:** 7/10\n\n**Expertise:** 2/10\n\n**Mastery:** 0/10\n\n### Astronomy\n\nTags: Practical, Knowledge, Magical\n\n**Description:** The knowledge and application of the magical field of Astronomy.\n\n**Affinity:** 10/10\n\n**Expertise:** 3/10\n\n**Mastery:** 1/10\n\n### History of Magic\n\nTags: Knowledge, Magical\n\n**Description:** The knowledge and application of the magical field of History of Magic.\n\n**Affinity:** 7/10\n\n**Expertise:** 3/10\n\n**Mastery:** 1/10\n\n### Flying\n\nTags: Practical, Magical\n\n**Description:** Capacity to effectively fly and navigate on a broom.\n\n**Affinity:** 3/10\n\n**Expertise:** 0/10\n\n**Mastery:** 0/10\n\n### Muggle Studies\n\nTags: Knowledge, Mundane\n\n**Description:** Familiarity with the non-magical world.\n\n**Affinity:** 4/10\n\n**Expertise:** 0/10\n\n**Mastery:** 0/10\n"
+  "formattedSheet": "# Elodie Fawley\n\nLast updated: 2026-11-13T00:54:45.997Z\n\n## Basic Information\n\n### Biography\n\n**Name:** Elodie Fawley\n\n**Age:** Eleven (Hogwarts first-year, inbound)\n\n**Birthday:** 14 May, 1980\n\n**Blood Status:** Pureblood\n\n**Residence:** Fawley Manor\n\n**Guardian:** Rilly (legally Cecily Fawley)\n\n**House:** TBD\n\n**Grand Dark Empire:** Not Yet Founded\n\n### Appearance\n\nElodie is a slightly short, slender eleven-year-old girl with fair skin, a round face, and thick, dark brown hair that falls a little past her shoulders, usually worn loose or tied back with a ribbon. Her features are expressive, and she has a habit of smiling rather readily. Her most striking feature is her extraordinarily vivid blue eyes, an almost startling shade that stands out even against her otherwise unremarkable appearance. She generally dresses neatly, although she's not especially concerned with remaining neat once she's occupied with something interesting.\n\n### Current Status\n\n#### Galleons on person\n\n100\n\n#### Injury\n\n0/5\n\n#### Exhaustion\n\n0/5\n\n#### Magical Exhaustion\n\n0/5\n\n#### Ongoing Conditions\n\nNone at present\n\n### Class Schedule\n\nUnrecognized module type: table\n\n```json\n{\n  \"type\": \"table\",\n  \"title\": \"Class Schedule\",\n  \"icon\": \"assets/rpg-icons/armors/graduate-cap.svg\",\n  \"tableData\": {\n    \"columnsTitles\": [\n      {\n        \"title\": null\n      },\n      {\n        \"title\": \"Mon.\"\n      },\n      {\n        \"title\": \"Tues.\"\n      },\n      {\n        \"title\": \"Wed.\"\n      },\n      {\n        \"title\": \"Thurs.\"\n      },\n      {\n        \"title\": \"Fri.\"\n      }\n    ],\n    \"rows\": [\n      {\n        \"title\": \"Breakfast\",\n        \"values\": [\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          }\n        ]\n      },\n      {\n        \"title\": \"Class 1\",\n        \"values\": [\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          }\n        ]\n      },\n      {\n        \"title\": \"Class 2\",\n        \"values\": [\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          }\n        ]\n      },\n      {\n        \"title\": \"Lunch\",\n        \"values\": [\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          }\n        ]\n      },\n      {\n        \"title\": \"Class 3\",\n        \"values\": [\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          }\n        ]\n      },\n      {\n        \"title\": \"Class 4\",\n        \"values\": [\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          }\n        ]\n      },\n      {\n        \"title\": \"Dinner\",\n        \"values\": [\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          }\n        ]\n      },\n      {\n        \"title\": \"Night\",\n        \"values\": [\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          },\n          {\n            \"value\": null\n          }\n        ]\n      }\n    ]\n  },\n  \"fields\": null\n}\n```\n\n## Inventory\n\n### Elodie's Wand\n\nWalnut, with dragon heartstring core.  11¼ inches. Reasonably supple. Acquired from Ollivanders.\n\nThis wand is no longer capable of being wielded by anyone except Elodie.\n\n### School Supplies\n\nElodie possesses all the necessary supplies for Hogwarts. While at school, unless circumstances dictate otherwise, assume she is carrying whatever supplies she would need for the day's classes.\n\n## Discoveries\n\n### Family Tree\n\nTags: Mundane\n\n**Description:** Who were the Fawleys?\n\n**Investigation:** Elodie is the daughter of Landon and Cecily Fawley. Her father was murdered, along with Elodie's grandparents and paternal aunt, eight months prior to Elodie's birth, by Death Eaters, because Voldemort wished to make a demonstration to other pureblood families claiming neutrality during the war that refusing to aid him would be treated as opposition; Cecily survived by virtue of not being present at the time. Cecily died in childbirth. Elodie has no known surviving family, or at least none who bear the Fawley name.\n\nRilly has never accepted the idea of allowing Elodie to be raised by another family, which is the original cause for the public deception of Cecily's \"survival\".\n\n**Pursuing?:** No\n\n### Elodie's Nature\n\nTags: Luminous, Magical\n\n**Description:** Elodie doesn't know what she is, exactly.\n\n**Investigation:** \n\n**Pursuing?:** No\n\n## Connections\n\n### Rilly\n\nTags: Wider World\n\n**Relation:** Devoted Elf / Caretaker\n\n**Demeanour:** Devotional\n\n**Details:** Rilly has spent eleven years raising Elodie. The bond is irreplaceable.\n\n**Regard:** 89\n\n**Affection:** 97\n\n### Oliver Wood\n\nTags: Hogwarts, Student\n\n**Relation:** \n\n**Demeanour:** \n\n**Details:** \n\n**Regard:** -1\n\n**Affection:** 1\n\n### Hannah Abbott\n\nTags: Hogwarts, Student\n\n**Relation:** Year-mate\n\n**Demeanour:** \n\n**Details:** \n\n**Regard:** 0\n\n**Affection:** 0\n\n### Lisa Turpin\n\nTags: Hogwarts, Student\n\n**Relation:** Year-mate\n\n**Demeanour:** \n\n**Details:** \n\n**Regard:** 2\n\n**Affection:** 0\n\n## Goals\n\n### Grand Dark Empire\n\nTags: Major Goal, Incomplete Goal\n\n**Completion:** No\n\n**Description:** Elodie intends to become a Dark Lord and one day found a Grand Dark Empire. This is a very normal goal for an eleven-year-old.\n\n**Progress:** Progress so far has been... somewhat limited.\n\n### Hogwarts Attendance\n\nTags: Major Goal, Incomplete Goal\n\n**Completion:** No\n\n**Description:** Elodie does, presumably, intend to complete her education.\n\n**Progress:** Elodie has not yet reached Hogwarts.\n\n## Traits\n\n### Luminous\n\nTags: Luminous, Magical\n\n**Description:** There's something special about Elodie. [There is more to this trait to be discovered.]\n\n**Active:** Yes\n\n**Immutable:** Yes\n\n### Blue Blood\n\nTags: Luminous, Magical, Mundane\n\n**Description:** Elodie's blood is blue. This is somewhat notable in a world where blood is not, as a rule, blue. Allowing others to discover this could have consequences.\n\n**Active:** Yes\n\n**Immutable:** Yes\n\n### Magic Absorption\n\nTags: Luminous, Magical\n\n**Description:** All forms of direct magical contact are absorbed upon contact with Elodie, becoming entirely ineffectual. This applies equally to hostile and non-hostile magic.\n\n**Active:** Yes\n\n**Immutable:** Yes\n\n## Skills\n\n### Strength\n\nTags: Practical, Mundane\n\n**Description:** Physical power and application of force.\n\n**Affinity:** 3/10\n\n**Expertise:** 0/10\n\n**Mastery:** 0/10\n\n### Agility\n\nTags: Practical, Mundane\n\n**Description:** Dexterity, quick movement, evasion, acrobatics.\n\n**Affinity:** 6/10\n\n**Expertise:** 1/10\n\n**Mastery:** 1/10\n\n### Stealth\n\nTags: Practical, Mundane\n\n**Description:** Capacity to move quietly, diminish one's presence, evade notice or detection, and generally take action without being observed doing so.\n\n**Affinity:** 5/10\n\n**Expertise:** 1/10\n\n**Mastery:** 1/10\n\n### Poker Face\n\nTags: Practical, Mundane\n\n**Description:** Capacity for controlling one's expression or reactions; ability to suppress emotional tells.\n\n**Affinity:** 4/10\n\n**Expertise:** 1/10\n\n**Mastery:** 0/10\n\n### Insight\n\nTags: Practical, Mundane\n\n**Description:** Capacity to recognise intentions, identify reactions, and read people beyond the surface level.\n\n**Affinity:** 4/10\n\n**Expertise:** 1/10\n\n**Mastery:** 0/10\n\n### Research\n\nTags: Practical, Mundane\n\n**Description:** Capacity to turn sources of knowledge into knowledge.\n\n**Affinity:** 8/10\n\n**Expertise:** 4/10\n\n**Mastery:** 3/10\n\n### Universal Magical Theory\n\nTags: Knowledge, Magical\n\n**Description:** Magical theory has many individual branches. This skill represents understanding of the places where they intersect, and generalised magical comprehension.\n\n**Affinity:** 8/10\n\n**Expertise:** 3/10\n\n**Mastery:** 1/10\n\n### Charms\n\nTags: Practical, Knowledge, Magical\n\n**Description:** The knowledge and application of the magical field of Charms.\n\n**Affinity:** 8/10\n\n**Expertise:** 2/10\n\n**Mastery:** 1/10\n\n### Transfiguration\n\nTags: Practical, Knowledge, Magical\n\n**Description:** The knowledge and application of the magical field of Transfiguration.\n\n**Affinity:** 5/10\n\n**Expertise:** 1/10\n\n**Mastery:** 0/10\n\n### Potions\n\nTags: Practical, Knowledge, Magical\n\n**Description:** The knowledge and application of the magical field of Potions.\n\n**Affinity:** 4/10\n\n**Expertise:** 2/10\n\n**Mastery:** 0/10\n\n### Herbology\n\nTags: Practical, Knowledge, Magical\n\n**Description:** The knowledge and application of the magical field of Herbology.\n\n**Affinity:** 6/10\n\n**Expertise:** 2/10\n\n**Mastery:** 1/10\n\n### Defense\n\nTags: Practical, Knowledge, Magical\n\n**Description:** The knowledge and application of the magical field of Defense (Against the Dark Arts).\n\n**Affinity:** 7/10\n\n**Expertise:** 2/10\n\n**Mastery:** 0/10\n\n### Astronomy\n\nTags: Practical, Knowledge, Magical\n\n**Description:** The knowledge and application of the magical field of Astronomy.\n\n**Affinity:** 10/10\n\n**Expertise:** 3/10\n\n**Mastery:** 1/10\n\n### History of Magic\n\nTags: Knowledge, Magical\n\n**Description:** The knowledge and application of the magical field of History of Magic.\n\n**Affinity:** 7/10\n\n**Expertise:** 3/10\n\n**Mastery:** 1/10\n\n### Flying\n\nTags: Practical, Magical\n\n**Description:** Capacity to effectively fly and navigate on a broom.\n\n**Affinity:** 3/10\n\n**Expertise:** 0/10\n\n**Mastery:** 0/10\n\n### Muggle Studies\n\nTags: Knowledge, Mundane\n\n**Description:** Familiarity with the non-magical world.\n\n**Affinity:** 4/10\n\n**Expertise:** 0/10\n\n**Mastery:** 0/10\n\n### English\n\nTags: Knowledge, Mundane, Language\n\n**Description:** Command of the English language.\n\n**Affinity:** 6/10\n\n**Expertise:** 6/10\n\n**Mastery:** 7/10\n\n### French\n\nTags: Knowledge, Mundane, Language\n\n**Description:** Command of the French language.\n\n**Affinity:** 7/10\n\n**Expertise:** 3/10\n\n**Mastery:** 1/10\n"
 }
