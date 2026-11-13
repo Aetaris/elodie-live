@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T03:19:33.123Z
+Last updated: 2026-11-13T03:34:45.941Z
 
 ## Basic Information
 
@@ -468,10 +468,10 @@ Tags: Knowledge, Mundane, Language
 
 Tags: Practical, Mundane
 
-**Description:** 
+**Description:** Talent at playing the piano.
 
-**Affinity:** 4/10
+**Affinity:** 5/10
 
-**Expertise:** 2/10
+**Expertise:** 3/10
 
 **Mastery:** 4/10
