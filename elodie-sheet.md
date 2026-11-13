@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T00:44:46.157Z
+Last updated: 2026-11-13T00:54:45.997Z
 
 ## Basic Information
 
@@ -47,6 +47,203 @@ Elodie is a slightly short, slender eleven-year-old girl with fair skin, a round
 #### Ongoing Conditions
 
 None at present
+
+### Class Schedule
+
+Unrecognized module type: table
+
+```json
+{
+  "type": "table",
+  "title": "Class Schedule",
+  "icon": "assets/rpg-icons/armors/graduate-cap.svg",
+  "tableData": {
+    "columnsTitles": [
+      {
+        "title": null
+      },
+      {
+        "title": "Mon."
+      },
+      {
+        "title": "Tues."
+      },
+      {
+        "title": "Wed."
+      },
+      {
+        "title": "Thurs."
+      },
+      {
+        "title": "Fri."
+      }
+    ],
+    "rows": [
+      {
+        "title": "Breakfast",
+        "values": [
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          }
+        ]
+      },
+      {
+        "title": "Class 1",
+        "values": [
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          }
+        ]
+      },
+      {
+        "title": "Class 2",
+        "values": [
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          }
+        ]
+      },
+      {
+        "title": "Lunch",
+        "values": [
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          }
+        ]
+      },
+      {
+        "title": "Class 3",
+        "values": [
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          }
+        ]
+      },
+      {
+        "title": "Class 4",
+        "values": [
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          }
+        ]
+      },
+      {
+        "title": "Dinner",
+        "values": [
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          }
+        ]
+      },
+      {
+        "title": "Night",
+        "values": [
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          },
+          {
+            "value": null
+          }
+        ]
+      }
+    ]
+  },
+  "fields": null
+}
+```
 
 ## Inventory
 
@@ -389,3 +586,27 @@ Tags: Knowledge, Mundane
 **Expertise:** 0/10
 
 **Mastery:** 0/10
+
+### English
+
+Tags: Knowledge, Mundane, Language
+
+**Description:** Command of the English language.
+
+**Affinity:** 6/10
+
+**Expertise:** 6/10
+
+**Mastery:** 7/10
+
+### French
+
+Tags: Knowledge, Mundane, Language
+
+**Description:** Command of the French language.
+
+**Affinity:** 7/10
+
+**Expertise:** 3/10
+
+**Mastery:** 1/10
