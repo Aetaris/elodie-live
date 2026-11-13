@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-12T23:44:46.095Z
+Last updated: 2026-11-13T00:04:46.469Z
 
 ## Basic Information
 
@@ -120,21 +120,21 @@ Tags: Hogwarts, Student
 
 Tags: Major Goal, Incomplete Goal
 
+**Completion:** No
+
 **Description:** Elodie intends to become a Dark Lord and one day found a Grand Dark Empire. This is a very normal goal for an eleven-year-old.
 
 **Progress:** Progress so far has been... somewhat limited.
-
-**Completion:** No
 
 ### Hogwarts Attendance
 
 Tags: Major Goal, Incomplete Goal
 
+**Completion:** No
+
 **Description:** Elodie does, presumably, intend to complete her education.
 
 **Progress:** Elodie has not yet reached Hogwarts.
-
-**Completion:** No
 
 ## Traits
 
