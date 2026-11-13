@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T03:34:45.941Z
+Last updated: 2026-11-13T07:34:46.577Z
 
 ## Basic Information
 
@@ -24,7 +24,7 @@ Last updated: 2026-11-13T03:34:45.941Z
 
 ### Appearance
 
-Elodie is a slightly short, slender eleven-year-old girl with fair skin, a round face, and thick, dark brown hair that falls a little past her shoulders, usually worn loose or tied back with a ribbon. Her features are expressive, and she has a habit of smiling rather readily. Her most striking feature is her extraordinarily vivid blue eyes, an almost startling shade that stands out even against her otherwise unremarkable appearance. She generally dresses neatly, although she's not especially concerned with remaining neat once she's occupied with something interesting.
+Elodie is a slightly short, slender eleven-year-old girl with fair skin, a round face, and thick, dark brown hair that falls a little past her shoulders, usually worn loose or tied back with a ribbon. Her features are expressive, and she has a habit of smiling rather readily. Her most striking feature is her extraordinarily vivid blue eyes, an almost startling shade that stands out against her otherwise unremarkable appearance. She generally dresses neatly, although she's not especially concerned with remaining neat once she's occupied with something interesting.
 
 ### Current Status
 
@@ -208,31 +208,31 @@ Tags: Minor Goal, Incomplete Goal
 
 Tags: Luminous, Magical
 
-**Description:** There's something special about Elodie. [There is more to this trait to be discovered.]
-
-**Active:** Yes
-
 **Immutable:** Yes
+
+**Active:** No
+
+**Description:** There's something special about Elodie. [There is more to this trait to be discovered.]
 
 ### Blue Blood
 
 Tags: Luminous, Magical, Mundane
 
-**Description:** Elodie's blood is blue. This is somewhat notable in a world where blood is not, as a rule, blue. Allowing others to discover this could have consequences.
-
-**Active:** Yes
-
 **Immutable:** Yes
+
+**Active:** No
+
+**Description:** Elodie's blood is blue. This is somewhat notable in a world where blood is not, as a rule, blue. Allowing others to discover this could have consequences.
 
 ### Magic Absorption
 
 Tags: Luminous, Magical
 
-**Description:** All forms of direct magical contact are absorbed upon contact with Elodie, becoming entirely ineffectual. This applies equally to hostile and non-hostile magic.
-
-**Active:** Yes
-
 **Immutable:** Yes
+
+**Active:** No
+
+**Description:** All forms of direct magical contact are absorbed upon contact with Elodie, becoming entirely ineffectual. This applies equally to hostile and non-hostile magic.
 
 ## Skills
 
