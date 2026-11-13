@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T02:54:45.996Z
+Last updated: 2026-11-13T03:00:21.366Z
 
 ## Basic Information
 
@@ -86,6 +86,20 @@ Tags: Luminous, Magical
 
 ## Connections
 
+### Ego (Self-Image)
+
+Tags: Luminous, Hogwarts, Student, Same Year
+
+**Relation:** Special
+
+**Demeanour:** Confident
+
+**Details:** What does Elodie think when she looks in the mirror?
+
+**Affection:** 0
+
+**Regard:** 0
+
 ### Rilly
 
 Tags: Wider World
@@ -153,6 +167,16 @@ Tags: Major Goal, Incomplete Goal
 **Description:** Elodie intends to become a Dark Lord and one day found a Grand Dark Empire. This is a very normal goal for an eleven-year-old.
 
 **Progress:** Progress so far has been... somewhat limited.
+
+### The Deception
+
+Tags: Major Goal, Incomplete Goal, Luminous
+
+**Completion:** No
+
+**Description:** It's best if the world doesn't know how special Elodie is.
+
+**Progress:** The secret of Elodie's nature, and of Cecily's death, has so far been kept only between Elodie and Rilly.
 
 ### Hogwarts Attendance
 
