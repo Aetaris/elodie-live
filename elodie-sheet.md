@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T00:34:46.421Z
+Last updated: 2026-11-13T00:44:46.157Z
 
 ## Basic Information
 
@@ -138,7 +138,7 @@ Tags: Hogwarts, Student
 
 **Details:** 
 
-**Regard:** 0
+**Regard:** 2
 
 **Affection:** 0
 
