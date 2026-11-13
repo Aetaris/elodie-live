@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T02:44:47.441Z
+Last updated: 2026-11-13T02:54:45.996Z
 
 ## Basic Information
 
@@ -96,9 +96,9 @@ Tags: Wider World
 
 **Details:** Rilly has spent eleven years raising Elodie. The bond is irreplaceable.
 
-**Regard:** 89
-
 **Affection:** 97
+
+**Regard:** 89
 
 ### Oliver Wood
 
@@ -110,37 +110,37 @@ Tags: Hogwarts, Student, Gryffindor
 
 **Details:** 
 
-**Regard:** -1
-
 **Affection:** 1
+
+**Regard:** -1
 
 ### Hannah Abbott
 
-Tags: Hogwarts, Student
+Tags: Hogwarts, Student, Same Year
 
-**Relation:** Year-mate
+**Relation:** 
 
-**Demeanour:** 
+**Demeanour:** Bemusedly Friendly
 
 **Details:** 
+
+**Affection:** 3
 
 **Regard:** 1
 
-**Affection:** 3
-
 ### Lisa Turpin
 
-Tags: Hogwarts, Student
+Tags: Hogwarts, Student, Same Year
 
-**Relation:** Year-mate
+**Relation:** 
 
-**Demeanour:** 
+**Demeanour:** Curious
 
 **Details:** 
 
-**Regard:** 4
-
 **Affection:** 3
+
+**Regard:** 4
 
 ## Goals
 
@@ -435,3 +435,15 @@ Tags: Knowledge, Mundane, Language
 **Expertise:** 4/10
 
 **Mastery:** 0/10
+
+### Piano
+
+Tags: Practical, Mundane
+
+**Description:** 
+
+**Affinity:** 4/10
+
+**Expertise:** 2/10
+
+**Mastery:** 4/10
