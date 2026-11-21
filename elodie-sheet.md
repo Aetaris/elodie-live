@@ -1,6 +1,6 @@
 # Elodie Fawley
 
-Last updated: 2026-11-13T16:34:34.271Z
+Last updated: 2026-11-21T22:44:46.145Z
 
 ## Basic Information
 
@@ -260,7 +260,7 @@ Tags: Practical, Mundane
 
 **Mastery:** 1/10
 
-### Reaction Speed
+### Reaction Time
 
 Tags: Practical, Mundane
 
